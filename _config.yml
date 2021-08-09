@@ -8,7 +8,7 @@ repository          : zahid58/zahid58.github.io     # Change to <your-username>/
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
-### Plugins ###
+### Plugins ####
 plugins:
   - jemoji
 
