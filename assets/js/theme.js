@@ -14,7 +14,8 @@ function initTheme() {
 
   if (savedTheme) {
     // Storage theme
-    setTheme(savedTheme);
+    // setTheme(savedTheme);
+    setTheme(themes.LIGHT);
   } else if (window.matchMedia && window.matchMedia(QUERY_KEY).matches) {
     // system theme
     setTheme(themes.DARK);
