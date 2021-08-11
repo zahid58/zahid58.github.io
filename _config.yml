@@ -1,7 +1,7 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : Md Zahidul Islam
 description         : >-
-                      Lecturer, CSE, IUT, Computer Vision and Deep Learning Researcher
+                      Lecturer, CSE, IUT\nComputer Vision and Deep Learning Researcher
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : zahid58/zahid58.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
