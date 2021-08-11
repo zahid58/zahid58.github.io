@@ -1,7 +1,9 @@
 ### Site Settings ###
 title               : Md Zahidul Islam
 description         : >-
-                      Lecturer, CSE, IUT\nComputer Vision and Deep Learning Researcher
+                      Lecturer, CSE, IUT
+                      
+                      Computer Vision and Deep Learning Researcher
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : zahid58/zahid58.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -23,7 +25,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Md Zahidul Islam
-  image             : https://i.imgur.com/uyDNQnn.jpg
+  image             : https://github.com/zahid58/zahid58.github.io/Md Zahidul Islam_CSE_IUT.jpg
   # behance           : your_username
 # dribbble          : your_username
   email             : zahidulislam@iut-dhaka.edu
