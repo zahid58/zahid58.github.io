@@ -1,11 +1,15 @@
 ---
-name: The Movies Project
-tools: [C#, XML, WPF]
+name: Inpainter
+tools: [Python, OpenCV, PyQt]
 image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+description: This is a python GUI application to inpaint images. Inpainting is a set of image processing algorithms where damaged, missing or unwanted parts of an image are filled in using the neighbouring pixels. It can also be used to remove forground objects. 
+external_url: https://github.com/zahid58/Inpainter
 ---
 
-# The Movies Project
+
+
+
+<!-- # The Movies Project
 
 The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
 
@@ -17,4 +21,4 @@ The Movies Project is something like **Netflix**, the only difference is that **
 
 <p class="text-center">
 {% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
-</p>
+</p> -->
