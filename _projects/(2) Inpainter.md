@@ -1,7 +1,7 @@
 ---
 name: Inpainter
 tools: [Python, OpenCV, PyQt]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
+image: https://raw.githubusercontent.com/zahid58/zahid58.github.io/main/images/projects/inpainter.jpg?token=AH3A5QFSURRCXF46MTOXSXDBEFLMY
 description: This is a python GUI application to inpaint images. Inpainting is a set of image processing algorithms where damaged, missing or unwanted parts of an image are filled in using the neighbouring pixels. It can also be used to remove forground objects. 
 external_url: https://github.com/zahid58/Inpainter
 ---
