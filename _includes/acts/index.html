@@ -13,10 +13,9 @@
 
     {%- if project.external_url -%}
       {%- assign project_url = project.external_url -%}
+    {%- endif -%}
     <!-- {%- else -%}
       {%- assign project_url = project.url | relative_url -%} -->
-    {%- endif -%}
-
     {% include acts/act-card.html %}
 
   {% endfor %}
