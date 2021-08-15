@@ -45,7 +45,7 @@
     {%- if project.external_url -%}
       {%- assign project_url = project.external_url -%}
     {%- else -%}
-      {%- assign project_url = project.url | relative_url -%}
+      {%- assign project_url = project.url -%}
     {%- endif -%}
 
     {% include projects/project-card.html %}
