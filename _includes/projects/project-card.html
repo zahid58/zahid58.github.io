@@ -1,5 +1,7 @@
 <div class="wow animated fadeIn" data-wow-delay=".15s">
+  {%- if project_url != "NONE" -%}
   <a href="{{ project_url }}" class="project card text-themed" target="_blank" rel="noopener noreferrer">
+  {%- endif -%}
     {%- if project_img -%}
     <img id="{{ project_id }}-img" class="card-img-top" src="{{ project_img }}" alt="{{ project_name }}" />
     {%- endif -%}
