@@ -56,6 +56,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
+  acts:
+    output: true
+    permalink: /acts/:name
   elements:                                             # For Documentation Only
     output: true                                        # For Documentation Only
 
@@ -77,6 +80,11 @@ defaults:
   - scope:
       path: ""
       type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "acts"
     values:
       layout: "page"
   - scope:                                              # For Documentation Only
