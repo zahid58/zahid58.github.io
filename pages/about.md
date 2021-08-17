@@ -37,7 +37,7 @@ weight: 3
 <br/>
 <br/>
 
-<hr/>
+### :link: &nbsp;Connect with me
 
 <p align="center">
   <a href="https://zahid58.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
