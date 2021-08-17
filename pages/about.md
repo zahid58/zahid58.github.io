@@ -5,10 +5,12 @@ permalink: /about/
 weight: 3
 ---
 
+<div align="center">
+<h2>Hi , I'm <b>Zahid</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"></h2>
+</div>
 
-<h2 align="center">Hi , I'm <b>Zahid</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"></h2>
 <p align="center">
-  <a href="https://zahid58.github.io/"><img src="https://readme-typing-svg.herokuapp.com?lines=Lecturer,+Dept.+of+CSE,+ IUT;Computer+Vision+and+Deep+Learning+Researcher&center=true&width=800&height=50"></a>
+  <a href="https://zahid58.github.io/"><img src="https://readme-typing-svg.herokuapp.com?lines=Lecturer,+Dept.+of+CSE,+ IUT;Computer+Vision+and+Deep+Learning+Researcher&center=true&width=600&height=50"></a>
 </p>
 <hr/>
 <h5 align="justify">I am presently serving IUT as a Lecturer of Dept. of CSE since July 1, 2021. Before that, I worked as a Machine Learning Engineer at Apurba Technologies Ltd where I worked on Bangla OCR systems. I graduated from IUT in Computer Science and Engineering on March 2021. During my undergraduate years, I have grown a keen interest in Computer Vision and Deep learning. My final year thesis was on "Automatic detection of violence from surveillance footage". I am active on Github and like to develop small projects as a hobby. In my spare time, I like to explore deep mysteries of the universe and history of humanity.</h5>
@@ -16,14 +18,21 @@ weight: 3
 
 ### 💼 Professional Skills
 
+
 • **Languages** - Python, Java, C++, C, SQL
+
 • **Deep Learning and Machine Learning** - Tensorflow, PyTorch, Scikit-learn
+
 • **Image Processing** - OpenCV, MATLAB
+
 • **Web** - HTML, CSS, JS (frontend)
+
 • **OS** - UNIXshell, x86Assembly
  
 
-
+<br/>
+<br/>
+<br/>
 <br/>
 
 <hr/>
