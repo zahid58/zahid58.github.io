@@ -30,7 +30,7 @@ weight: 3
 
 <br/>
 
-<p class="text-center"> {% include elements/button.html link="CV_Md_Zahidul_Islam_IUT.pdf" text="View CV" style="primary" %} </p>
+<p class="text-center"> {% include elements/button.html link="https://zahid58.github.io/CV_Md_Zahidul_Islam_IUT.pdf" text="View CV" style="primary" %} </p>
 
 <br/>
 <br/>
