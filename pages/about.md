@@ -6,8 +6,7 @@ weight: 3
 ---
 
 <div align="center">
-<!-- <h2>Hi , I'm <b>Zahid</b> 👋</h2> -->
-<h2>Hi , I'm <b>Zahid</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h2>
+<h2>Hi , I'm <b>Zahid</b> 👋</h2>
 </div>
 
 <p align="center">
@@ -15,11 +14,12 @@ weight: 3
 </p>
 <hr/>
 <h5 align="justify">I am presently serving IUT as a Lecturer of Dept. of CSE since July 1, 2021. Before that, I worked as a Machine Learning Engineer at Apurba Technologies Ltd where I worked on Bangla OCR systems. I graduated from IUT in Computer Science and Engineering on March 2021. During my undergraduate years, I have grown a keen interest in Computer Vision and Deep learning. My final year thesis was on "Automatic detection of violence from surveillance footage". I am active on Github and like to develop small projects as a hobby. In my spare time, I like to explore deep mysteries of the universe and history of humanity.</h5>
-<br>
+<br/>
+<br/>
+
 
 ### 💼 Professional Skills
 
-<br/>
 
 • **Languages** - Python, Java, C++, C, SQL<br/>
 
