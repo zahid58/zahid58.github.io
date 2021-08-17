@@ -6,7 +6,7 @@ weight: 3
 ---
 
 <div align="center">
-<h2>Hi , I'm <b>Zahid</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"></h2>
+<h2>Hi , I'm <b>Zahid</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
 </div>
 
 <p align="center">
@@ -18,16 +18,17 @@ weight: 3
 
 ### 💼 Professional Skills
 
+<br/>
 
-• **Languages** - Python, Java, C++, C, SQL
+• **Languages** - Python, Java, C++, C, SQL\
 
-• **Deep Learning and Machine Learning** - Tensorflow, PyTorch, Scikit-learn
+• **Deep Learning and Machine Learning** - Tensorflow, PyTorch, Scikit-learn\
 
-• **Image Processing** - OpenCV, MATLAB
+• **Image Processing** - OpenCV, MATLAB\
 
-• **Web** - HTML, CSS, JS (frontend)
+• **Web** - HTML, CSS, JS (frontend)\
 
-• **OS** - UNIXshell, x86Assembly
+• **OS** - UNIXshell, x86Assembly\
  
 
 <br/>
