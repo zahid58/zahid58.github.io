@@ -19,8 +19,7 @@ weight: 3
 
 
 ### 💼 Professional Skills
-
-
+<br/>
 - **Languages** - Python, Java, C++, C, SQL<br/>
 
 - **Deep Learning and Machine Learning** - Tensorflow, PyTorch, Scikit-learn<br/>
@@ -32,8 +31,9 @@ weight: 3
 - **OS** - UNIXshell, x86Assembly<br/>
 <br/>
 <br/>
+<br/>
 
-
+<hr/>
 ### :link: &nbsp;Connect with me
 
 <p align="center">
