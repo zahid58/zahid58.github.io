@@ -34,7 +34,7 @@ weight: 3
 <br/>
 
 <hr/>
-### :link: &nbsp;Connect with me
+<!-- ### :link: &nbsp;Connect with me
 
 <p align="center">
   <a href="https://zahid58.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
@@ -45,7 +45,7 @@ weight: 3
 </p>
 
 
-* Last Edited on: 17/8/2021
+* Last Edited on: 17/8/2021 -->
 
 
 <!-- 	<a href="https://www.instagram.com/zahid__58/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
