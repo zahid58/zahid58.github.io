@@ -20,15 +20,15 @@ weight: 3
 
 <br/>
 
-• **Languages** - Python, Java, C++, C, SQL\
+• **Languages** - Python, Java, C++, C, SQL<br/>
 
-• **Deep Learning and Machine Learning** - Tensorflow, PyTorch, Scikit-learn\
+• **Deep Learning and Machine Learning** - Tensorflow, PyTorch, Scikit-learn<br/>
 
-• **Image Processing** - OpenCV, MATLAB\
+• **Image Processing** - OpenCV, MATLAB<br/>
 
-• **Web** - HTML, CSS, JS (frontend)\
+• **Web** - HTML, CSS, JS (frontend)<br/>
 
-• **OS** - UNIXshell, x86Assembly\
+• **OS** - UNIXshell, x86Assembly
  
 
 <br/>
