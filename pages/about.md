@@ -20,15 +20,13 @@ weight: 3
 
 ### 💼 Professional Skills
 <br/>
-- **Languages** - Python, Java, C++, C, SQL<br/>
-
-- **Deep Learning and Machine Learning** - Tensorflow, PyTorch, Scikit-learn<br/>
-
-- **Image Processing** - OpenCV, MATLAB<br/>
-
-- **Web** - HTML, CSS, JS (frontend)<br/>
-
-- **OS** - UNIXshell, x86Assembly<br/>
+<ul>
+  <li><b>Languages</b> - Python, Java, C++, C, SQL</li>
+  <li><b>Deep Learning and Machine Learning</b> - Tensorflow, PyTorch, Scikit-learn</li>
+  <li><b>Image Processing</b> - OpenCV, MATLAB</li>
+  <li><b>Web</b> - HTML, CSS, JS (frontend)</li>
+  <li><b>OS</b> - UNIX shell scripting, x86Assembly</li>
+</ul>
 <br/>
 <br/>
 <br/>
