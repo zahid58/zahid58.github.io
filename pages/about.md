@@ -19,7 +19,7 @@ weight: 3
 
 
 ### 💼 Professional Skills
-<br/>
+
 - **Languages** - Python, Java, C++, C, SQL<br/>
 
 - **Deep Learning and Machine Learning** - Tensorflow, PyTorch, Scikit-learn<br/>
