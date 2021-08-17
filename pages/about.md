@@ -6,7 +6,8 @@ weight: 3
 ---
 
 <div align="center">
-<h2>Hi , I'm <b>Zahid</b> 👋</h2>
+<!-- <h2>Hi , I'm <b>Zahid</b> 👋</h2> -->
+<h2>Hi , I'm <b>Zahid</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h2>
 </div>
 
 <p align="center">
@@ -28,7 +29,7 @@ weight: 3
 
 • **Web** - HTML, CSS, JS (frontend)<br/>
 
-• **OS** - UNIXshell, x86Assembly
+• **OS** - UNIXshell, x86Assembly<br/>
  
 
 <br/>
