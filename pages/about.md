@@ -19,7 +19,7 @@ weight: 3
 
 
 ### 💼 Professional Skills
-<br/>
+
 <ul>
   <li><b>Languages</b> - Python, Java, C++, C, SQL</li>
   <li><b>Deep Learning and Machine Learning</b> - Tensorflow, PyTorch, Scikit-learn</li>
@@ -27,7 +27,11 @@ weight: 3
   <li><b>Web</b> - HTML, CSS, JS (frontend)</li>
   <li><b>OS</b> - UNIX shell scripting, x86Assembly</li>
 </ul>
+
 <br/>
+
+<p class="text-center"> {% include elements/button.html link="CV_Md_Zahidul_Islam_IUT.pdf" text="View CV" style="primary" %} </p>
+
 <br/>
 <br/>
 
