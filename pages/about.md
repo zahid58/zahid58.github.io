@@ -6,7 +6,7 @@ weight: 3
 ---
 
 
-<h2 align="center">Hi , I'm Zahid<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="800"></h2>
+<h2 align="center">Hi , I'm <b>Zahid</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"></h2>
 <p align="center">
   <a href="https://zahid58.github.io/"><img src="https://readme-typing-svg.herokuapp.com?lines=Lecturer,+Dept.+of+CSE,+ IUT;Computer+Vision+and+Deep+Learning+Researcher&center=true&width=800&height=50"></a>
 </p>
@@ -14,11 +14,38 @@ weight: 3
 <h5 align="justify">I am presently serving IUT as a Lecturer of Dept. of CSE since July 1, 2021. Before that, I worked as a Machine Learning Engineer at Apurba Technologies Ltd where I worked on Bangla OCR systems. I graduated from IUT in Computer Science and Engineering on March 2021. During my undergraduate years, I have grown a keen interest in Computer Vision and Deep learning. My final year thesis was on "Automatic detection of violence from surveillance footage". I am active on Github and like to develop small projects as a hobby. In my spare time, I like to explore deep mysteries of the universe and history of humanity.</h5>
 <br>
 
-## 🛠️ Professional Skills
+### 💼 Professional Skills
 
-### 👉 Programming languages
+• **Languages** - Python, Java, C++, C, SQL
+• **Deep Learning and Machine Learning** - Tensorflow, PyTorch, Scikit-learn
+• **Image Processing** - OpenCV, MATLAB
+• **Web** - HTML, CSS, JS (frontend)
+• **OS** - UNIXshell, x86Assembly
+ 
 
-<p align="left"> 
+
+<br/>
+
+<hr/>
+
+<p align="center">
+  <a href="https://zahid58.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:zahidulislam@iut-dhaka.edu"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/zahid58"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/zahid58"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/Zahid1558"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>	
+</p>
+
+
+* Last Edited on: 17/8/2021
+
+
+<!-- 	<a href="https://www.instagram.com/zahid__58/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> -->
+
+
+
+<!-- <p align="left"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
@@ -45,9 +72,10 @@ weight: 3
   </a>
 </p>
 
-### 👉 Software & Tools
- 
-<p>
+### 👉 Software & Tools -->
+
+
+<!-- <p>
   &emsp;
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
   &emsp;
@@ -60,29 +88,4 @@ weight: 3
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
   &emsp;
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-</p>
-
-<br/>
-
-<hr/>
-
-<p align="center">
-  <a href="https://zahid58.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:zahidulislam@iut-dhaka.edu"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/zahid58"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/zahid58"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/Zahid1558"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>	
-</p>
-
-
-* Last Edited on: 17/8/2021
-
-
-<!-- 	<a href="https://www.instagram.com/zahid__58/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> -->
-
-
-
-
-
-
+</p> -->
