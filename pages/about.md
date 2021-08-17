@@ -20,6 +20,7 @@ weight: 3
 
 ### 💼 Professional Skills
 
+
 - **Languages** - Python, Java, C++, C, SQL<br/>
 
 - **Deep Learning and Machine Learning** - Tensorflow, PyTorch, Scikit-learn<br/>
@@ -34,18 +35,17 @@ weight: 3
 <br/>
 
 <hr/>
-<!-- ### :link: &nbsp;Connect with me
 
-<p align="center">
+
+
+<!-- <p align="center">
   <a href="https://zahid58.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:zahidulislam@iut-dhaka.edu"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/zahid58"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/zahid58"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/Zahid1558"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>	
 </p>
-
-
-* Last Edited on: 17/8/2021 -->
+ -->
 
 
 <!-- 	<a href="https://www.instagram.com/zahid__58/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
