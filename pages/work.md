@@ -9,7 +9,7 @@ weight: 3
   <div class="card mb-11">
       <div class="row">
         <div class="col-md-4">
-        <img src="https://zahid58.github.io/images/work/IUT.png" class="card-img">
+        <img src="https://zahid58.github.io/images/work/IUT.png" class="card-img" alt="IUT logo">
         </div>
         <div class="col-md-8">
           <div style="align:left;" class="card-body">
@@ -38,7 +38,7 @@ weight: 3
   <div class="card mb-11">
       <div class="row">
         <div class="col-md-4">
-        <img src="https://zahid58.github.io/images/work/apurba.png" class="card-img">
+        <img src="https://zahid58.github.io/images/work/apurba.png" class="card-img" alt="apurba logo">
         </div>
         <div class="col-md-8">
           <div style="align:left;" class="card-body">
@@ -66,7 +66,7 @@ weight: 3
   <div class="card mb-11">
       <div class="row">
         <div class="col-md-4">
-        <img src="https://zahid58.github.io/images/work/samsung.png" class="card-img">
+        <img src="https://zahid58.github.io/images/work/samsung.png" class="card-img" alt="srbd logo">
         </div>
         <div class="col-md-8">
           <div style="align:left;" class="card-body">
@@ -79,8 +79,8 @@ weight: 3
             <span><i>Nov 2021 - Dec 2021</i></span>
             </left_right>
                 <ul>
-                    <li>Worked on recognition of human walking patterns with smartphone accelerometer data using deep learning
-techniques to identify real user of smartphone.</li>
+                    <li>Worked on recognition of human walking patterns using deep learning
+techniques on smartphone accelerometer data to identify real user of smartphone.</li>
                 </ul>    
             </p>
             <p class="text-center"> {% include elements/button_nt.html link="https://research.samsung.com/srbd" text="SRBD Website" %} </p>
