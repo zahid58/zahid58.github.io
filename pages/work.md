@@ -17,7 +17,7 @@ weight: 3
             <p class="card-text">
                 The Carousel code can be replaced with an img src, no problem. The added CSS brings shadow to the card and some adjustments.
             </p>
-            <button class="btn">Read</button>
+            <p class="text-center"> {% include elements/button_nt.html link="https://zahid58.github.io/CV_Md_Zahidul_Islam_IUT.pdf" text="View CV" style="primary" %} </p>
           </div>
         </div>
       </div>
