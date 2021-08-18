@@ -1,6 +1,7 @@
 ---
 ---
 #work.card {
+    color: rgb(29, 30, 34);
     border-radius: 15px;
     // text-decoration: none;
     margin: 10px auto;
@@ -10,9 +11,9 @@
       margin: 1px auto;
     }
   
-    // transition: transform 400ms;
+    transition: transform 400ms;
     &:hover {
-        color: black;
+        color: rgb(29, 30, 34);
         transform: translateY(-8px);
         box-shadow: -2px 8px 40px -12px rgba(0, 0, 0, 0.24);
     }
