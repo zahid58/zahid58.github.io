@@ -12,7 +12,7 @@ weight: 3
         <img src="https://raw.githubusercontent.com/zahid58/zahid58.github.io/main/images/acts/covers/ijcnn_conf.jpg?token=AH3A5QDFCI7FKEPOWXYJF63BETORY" class="card-img">
         </div>
         <div class="col-md-8">
-          <div style="align:left;" class="card-body">
+          <div style="align:left;" class="card-body"><small>
             <h3 class="card-title mt-2">Islamic University of Technology (IUT)</h3>
             <h5 class="card-title mt-3" style="color: #007bff">Lecturer, Dept. of Computer Science and Engineering</h5>
             <p class="card-text">
@@ -22,7 +22,7 @@ weight: 3
                 </ul>    
             </p>
             <p class="text-center"> {% include elements/button_nt.html link="https://zahid58.github.io/CV_Md_Zahidul_Islam_IUT.pdf" text="View CV" %} </p>
-          </div>
+          </div></small>
         </div>
       </div>
   </div>
