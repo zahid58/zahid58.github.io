@@ -14,6 +14,7 @@ weight: 3
         <div class="col-md-8">
           <div class="card-body">
             <h2 class="card-title mt-2">Lecturer</h2>
+            <h3 class="card-title mt-3" style="color: blue">Islamic University of Technology</h3>
             <p class="card-text">
                 The Carousel code can be replaced with an img src, no problem. The added CSS brings shadow to the card and some adjustments.
             </p>
