@@ -7,7 +7,7 @@ weight: 3
 <div class="card-decks m-3 mt-5">
 
   <div class="wow animated fadeIn" data-wow-delay=".15s">
-    <a href="#" class="project card text-themed">
+    <a href="#" class="work card text-themed">
     <div class="card-body">
       <div class="row">
         <div class="col-md-4">
