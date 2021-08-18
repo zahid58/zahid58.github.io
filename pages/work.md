@@ -4,8 +4,6 @@ title: Work Experience
 permalink: /work/
 weight: 3
 ---
-
-
   <div class="card">
     <div class="row">
       <div class="col-md-4">

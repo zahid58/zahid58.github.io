@@ -25,7 +25,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Md Zahidul Islam
-  image             : https://raw.githubusercontent.com/zahid58/zahid58.github.io/main/images/Md%20Zahidul%20Islam_CSE_IUT.jpg?token=AH3A5QAX6KBDNSBPQISUPBLBDTURW
+  image             : "https://zahid58.github.io/images/Md%20Zahidul%20Islam_CSE_IUT.jpg"
   # behance           : your_username
 # dribbble          : your_username
   email             : zahidulislam@iut-dhaka.edu
