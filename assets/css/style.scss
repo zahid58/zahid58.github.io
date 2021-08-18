@@ -1,18 +1,17 @@
 ---
 ---
+@import "portfolYOU";
 
-
-.post img:not(.emoji) {
-  display: block;
-  max-width: 100%;
-  height: 100%;
-  margin: 0;
-}
+// .post img:not(.emoji) {
+//   display: block;
+//   max-width: 100%;
+//   height: 100%;
+//   margin: 0;
+// }
 
 .card-img {
   margin: 0;
   height: 100%;
-  width: 85vw;
+  width: 100%;
   object-fit: cover;
 }
-@import "portfolYOU";
