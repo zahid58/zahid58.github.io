@@ -20,7 +20,7 @@ weight: 3
         </div>
       </div>
       <!-- Carousel start -->
-      <div class="col-md-5" ml="10px">
+      <div class="col-md-5" margin-left="10px">
         <div id="CarouselTest" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
             <li data-target="#CarouselTest" data-slide-to="0" class="active"></li>
