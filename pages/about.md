@@ -16,7 +16,7 @@ weight: 3
 <br/>
 <br/>
 
-<h4 align="left">💼 Professional Skills</h4>
+<h3 align="left"><b>Professional Skills</b></h3>
 <ul>
   <li><b>Languages</b> - Python, Java, C++, C, SQL</li>
   <li><b>Deep Learning and Machine Learning</b> - Tensorflow, PyTorch, Scikit-learn</li>

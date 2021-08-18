@@ -14,7 +14,7 @@ weight: 3
 
 <left_right>
 <span><h3 align="left"><b>Publications</b></h3></span>
-<span><i>{% include elements/button_nt.html link="https://orcid.org/0000-0001-8246-632X" text="ORCID Profile" %}</i></span>
+<span>{% include elements/button_nt.html link="https://orcid.org/0000-0001-8246-632X" text="ORCID Profile" %}</span>
 </left_right>
 <div class="row">
 {% include research/timeline.html %}
