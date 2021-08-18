@@ -1,6 +1,11 @@
 ---
 ---
+.card.mb-6{
+  margin:0;
+  padding:0;
+}
 .card-img {
+  margin: 0;
   height: 100%;
   width: 55vw;
   object-fit: cover;
