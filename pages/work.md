@@ -9,7 +9,7 @@ weight: 3
   <div class="card">
     <div class="row">
       <div class="col-md-4">
-       <img src="https://raw.githubusercontent.com/zahid58/zahid58.github.io/main/images/acts/covers/erc18.jpg?token=AH3A5QFPPFILMWEN2Y2HHJTBETOVS" class="card-img-top-zahid">
+       <img src="https://raw.githubusercontent.com/zahid58/zahid58.github.io/main/images/acts/covers/erc18.jpg?token=AH3A5QFPPFILMWEN2Y2HHJTBETOVS" class="card-img-top-zahid" height="200px" width="100px">
       </div>
       <div class="col-md-8">
         <h2 class="card-title mt-2">Lecturer</h2>
