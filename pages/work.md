@@ -6,7 +6,7 @@ weight: 3
 ---
 <div class="card-decks m-3 mt-5">
 
-  <div class="card mb-7" style="max-width: 1200px;">
+  <div class="card mb-6" style="max-width: 1000px;">
       <div class="row">
         <div class="col-md-4">
         <img src="https://raw.githubusercontent.com/zahid58/zahid58.github.io/main/images/acts/covers/ijcnn_conf.jpg?token=AH3A5QDFCI7FKEPOWXYJF63BETORY" class="card-img">
