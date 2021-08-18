@@ -1,6 +1,10 @@
 ---
 ---
 @import "portfolYOU";
+ol, ul {
+  list-style-position: inside;
+  padding-left: 0;
+}
 .card.mb-11 {
   margin-bottom: 20px;
   margin-top:auto;
