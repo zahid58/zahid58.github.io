@@ -16,7 +16,7 @@ body {
 .badge-light {
   &,
   * {
-    color: $text-black !important;
+    color: #343a40 !important;
   }
 }
 
@@ -24,7 +24,7 @@ body {
 .badge-dark {
   &,
   * {
-    color: $text-white !important;
+    color: rgba(white, .9) !important;
   }
 }
 
@@ -42,7 +42,7 @@ body {
     }
   
     transition: transform 400ms;
-    
+
     &:hover:not(.post) {
         color: rgb(29, 30, 34);
         transform: translateY(-4px);
