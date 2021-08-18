@@ -9,7 +9,7 @@
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav ml-auto">
 
-      {%- assign html_pages = site.html_pages | sort: 'weight' -%}
+      <!-- {%- assign html_pages = site.html_pages | sort: 'weight' -%}
       {%- assign filtered_pages = "" | split: "" -%}
 
       {%- for html_page in html_pages -%} 
@@ -53,7 +53,13 @@
 
         <a class="nav-item nav-link {{ active_status }}" href="{{ url }}">{{ html_page.title }}</a>
 
-      {% endfor %}
+      {% endfor %} -->
+
+        <a class="nav-item nav-link " href="/about/">About Me</a>
+        <a class="nav-item nav-link " href="/education/">Education</a>
+        <a class="nav-item nav-link " href="/work/">Work Experience</a>
+        <a class="nav-item nav-link " href="/projects/">Projects</a>
+        <a class="nav-item nav-link " href="/acts/">Activities & Awards</a>
 
       <span id="theme-toggler" class="nav-item nav-link" role="button" onclick="toggleTheme()"></span>
     </div>
