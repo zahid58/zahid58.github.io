@@ -6,11 +6,13 @@
     margin: 10px auto;
   
     .card-img-top {
-      border-radius: 15px 15px 0 0;
+      border-radius: 15px 15px 15px 15px;
       margin: 1px auto;
     }
   
     // transition: transform 400ms;
-
+    &:hover {
+        color: #1b3653;
+    }
   }
 @import "portfolYOU";
