@@ -8,16 +8,18 @@
     margin: 10px auto;
   
     .card-img-top {
-      border-radius: 15px 15px 0 0;
+      border-radius: 15px 15px 15px 15px;
       margin: 1px auto;
     }
   
-    transition: transform 400ms;
+    // transition: transform 400ms;
 
-    .disable-hover,
-    .disable-hover * {
-        pointer-events: none !important;
-    }
+    a, a:hover {
+      color: rgb(29, 30, 34);
+      border-radius: 15px;
+      text-decoration: none !important;
+      margin: 10px auto;
+   }
 }
 
 @import "portfolYOU";
