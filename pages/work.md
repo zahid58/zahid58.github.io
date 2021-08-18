@@ -5,8 +5,8 @@ permalink: /work/
 weight: 3
 ---
 
-<div class="container py-3">
-  <div class="title h1 text-center">Horizontal cards - Bootstrap 4</div>
+<!-- <div class="container py-3">
+  <div class="title h1 text-center">Horizontal cards - Bootstrap 4</div> -->
   <!-- Card Start -->
   <div class="card">
     <div class="row ">
@@ -15,9 +15,8 @@ weight: 3
         <div class="card-block px-6">
           <h4 class="card-title">Horizontal Card with Carousel - Bootstrap 4 </h4>
           <p class="card-text">
-            The Carousel code can be replaced with an img src, no problem. The added CSS brings shadow to the card and some adjustments to the prev/next buttons and the indicators is rounded now. As in Bootstrap 3
+            The Carousel code can be replaced with an img src, no problem. The added CSS brings shadow to the card and some adjustments.
           </p>
-          <p class="card-text">Made for usage, commonly searched for. Fork, like and use it. Just move the carousel div above the col containing the text for left alignment of images</p>
           <br>
           <a href="#" class="mt-auto btn btn-primary  ">Read More</a>
         </div>
@@ -56,7 +55,7 @@ weight: 3
     </div>
   </div>
   <!-- End of card -->
-</div>
+<!-- </div> -->
 
 
 
