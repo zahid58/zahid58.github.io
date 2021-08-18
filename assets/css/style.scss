@@ -1,10 +1,39 @@
 ---
 ---
+html {
+  padding-left: calc(100vw - 100%);
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.badge {
+  font-weight: 500;
+}
+
+.bg-light,
+.badge-light {
+  &,
+  * {
+    color: $text-black !important;
+  }
+}
+
+.bg-dark,
+.badge-dark {
+  &,
+  * {
+    color: $text-white !important;
+  }
+}
+
+
 .work.card {
     
     color: rgb(29, 30, 34);
     border-radius: 15px;
-    // text-decoration: none;
+    text-decoration: none !important;
     margin: 10px auto;
   
     .card-img-top {
@@ -13,10 +42,11 @@
     }
   
     transition: transform 400ms;
-    &:hover {
+    
+    &:hover:not(.post) {
         color: rgb(29, 30, 34);
-        transform: translateY(-8px);
-        box-shadow: -2px 8px 40px -12px rgba(0, 0, 0, 0.24);
+        transform: translateY(-4px);
+        box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.24);
     }
     
   }
