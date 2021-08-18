@@ -1,6 +1,11 @@
 ---
 ---
-
+a, a:hover {
+  color: rgb(29, 30, 34);
+  border-radius: 15px;
+  text-decoration: none !important;
+  margin: 10px auto;
+}
 .work.card {
     color: rgb(29, 30, 34);
     border-radius: 15px;
@@ -14,12 +19,7 @@
   
     // transition: transform 400ms;
 
-    a, a:hover {
-      color: rgb(29, 30, 34);
-      border-radius: 15px;
-      text-decoration: none !important;
-      margin: 10px auto;
-   }
+
 }
 
 @import "portfolYOU";
