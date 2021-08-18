@@ -6,11 +6,9 @@ weight: 3
 ---
 
 <!-- <div class="container py-3">
-  <div class="title h1 text-center">Horizontal cards - Bootstrap 4</div> -->
   <!-- Card Start -->
   <div class="card">
     <div class="row ">
-
       <div class="col-md-7 px-3">
         <div class="card-block px-6">
           <h4 class="card-title">Horizontal Card with Carousel - Bootstrap 4 </h4>
@@ -22,13 +20,12 @@ weight: 3
         </div>
       </div>
       <!-- Carousel start -->
-      <div class="col-md-5">
+      <div class="col-md-5" ml="10px">
         <div id="CarouselTest" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
             <li data-target="#CarouselTest" data-slide-to="0" class="active"></li>
             <li data-target="#CarouselTest" data-slide-to="1"></li>
             <li data-target="#CarouselTest" data-slide-to="2"></li>
-
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
@@ -55,7 +52,6 @@ weight: 3
     </div>
   </div>
   <!-- End of card -->
-<!-- </div> -->
 
 
 
