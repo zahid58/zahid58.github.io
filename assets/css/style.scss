@@ -9,9 +9,10 @@
 //     text-transform: uppercase;
 // }
 
-.card-img-top-zahid {
-    border-radius: 15px 15px 0 0;
-    padding: none;
+.card-img-top-z {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
 }
 
 // .card-block {
