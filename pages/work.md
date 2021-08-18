@@ -9,7 +9,7 @@ weight: 3
   <div class="card mb-11">
       <div class="row">
         <div class="col-md-4">
-        <img src="https://raw.githubusercontent.com/zahid58/zahid58.github.io/main/images/acts/covers/ijcnn_conf.jpg?token=AH3A5QDFCI7FKEPOWXYJF63BETORY" class="card-img">
+        <img src="https://zahid58.github.io/images/work/IUT.png" class="card-img">
         </div>
         <div class="col-md-8">
           <div style="align:left;" class="card-body">
@@ -17,32 +17,74 @@ weight: 3
             <h3 class="card-title mt-2">Islamic University of Technology (IUT)</h3>
             <h5 class="card-text" style="color: #007bff">Lecturer, Dept. of Computer Science and Engineering</h5>
             <p class="card-text">
-            <i>July 1, 2021 -- Present</i>
+            <left_right>
+            <span><i>Dhaka, Bangladesh</i></span>
+            <span><i>July 2021 - Present</i></span>
+            </left_right>
                 <ul>
                     <li><b>Courses Conducted</b> - Computing for Engineers</li>
                     <li><b>Labs Conducted</b> - Data Structures, Microprocessor and Assembly Language, Engineering Drawing</li>
                 </ul>    
             </p>
-            <p class="text-center"> {% include elements/button_nt.html link="https://cse.iutoic-dhaka.edu/profile/zahidulislam" text="IUT Profile" %} </p>
+            <p class="text-center"> {% include elements/button_nt.html link="https://www.iutoic-dhaka.edu/" text="IUT Website" %}
+            {% include elements/button_nt.html link="https://cse.iutoic-dhaka.edu/profile/zahidulislam" text="My Profile" %} </p>
           </small>
           </div>
         </div>
       </div>
   </div>
 
-  <div class="card mb-6" style="max-width: 1000px;">
+
+  <div class="card mb-11">
       <div class="row">
         <div class="col-md-4">
-        <img src="https://raw.githubusercontent.com/zahid58/zahid58.github.io/main/images/acts/covers/ijcnn_conf.jpg?token=AH3A5QDFCI7FKEPOWXYJF63BETORY" class="card-img">
+        <img src="https://zahid58.github.io/images/work/apurba.png" class="card-img">
         </div>
         <div class="col-md-8">
-          <div class="card-body">
-            <h3 class="card-title mt-2">Lecturer</h3>
-            <h5 class="card-title mt-3" style="color: #007bff">Islamic University of Technology</h5>
+          <div style="align:left;" class="card-body">
+          <small>
+            <h3 class="card-title mt-2">Apurba Technologies Ltd.</h3>
+            <h5 class="card-text" style="color: #007bff">Machine Learning Engineer, Computer Vision</h5>
             <p class="card-text">
-                The Carousel code can be replaced with an img src, no problem. The added CSS brings shadow to the card and some adjustments.
+            <left_right>
+            <span><i>Dhaka, Bangladesh</i></span>
+            <span><i>March 2021 - July 2021</i></span>
+            </left_right>
+                <ul>
+                    <li>Worked on research and development of large-scale Bangla OCR systems</li>
+                    <li>Development & integration of image processing and machine learning based methods for computer vision tasks</li>
+                </ul>    
             </p>
-            <p class="text-center"> {% include elements/button_nt.html link="https://zahid58.github.io/CV_Md_Zahidul_Islam_IUT.pdf" text="View CV" %} </p>
+            <p class="text-center"> {% include elements/button_nt.html link="https://apurba.com.bd/" text="Apurba Website" %} </p>
+          </small>
+          </div>
+        </div>
+      </div>
+  </div>
+
+
+  <div class="card mb-11">
+      <div class="row">
+        <div class="col-md-4">
+        <img src="https://zahid58.github.io/images/work/samsung.png" class="card-img">
+        </div>
+        <div class="col-md-8">
+          <div style="align:left;" class="card-body">
+          <small>
+            <h3 class="card-title mt-2">Samsung R & D Institute Bangladesh</h3>
+            <h5 class="card-text" style="color: #007bff">Intern, Research & Development</h5>
+            <p class="card-text">
+            <left_right>
+            <span><i>Dhaka, Bangladesh</i></span>
+            <span><i>Nov 2021 - Dec 2021</i></span>
+            </left_right>
+                <ul>
+                    <li>Worked on recognition of human walking patterns with smartphone accelerometer data using deep learning
+techniques to identify real user of smartphone.</li>
+                </ul>    
+            </p>
+            <p class="text-center"> {% include elements/button_nt.html link="https://research.samsung.com/srbd" text="SRBD Website" %} </p>
+          </small>
           </div>
         </div>
       </div>

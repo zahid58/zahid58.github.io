@@ -20,4 +20,7 @@ ol, ul {
   margin: 0;
   border-radius: 15px;
 }
-
+left_right {
+  display: flex;
+  justify-content: space-between;
+}
