@@ -19,6 +19,7 @@ weight: 3
                 The Carousel code can be replaced with an img src, no problem. The added CSS brings shadow to the card and some adjustments.
             </p>
             <button class="btn">Read</button>
+          </div>
         </div>
       </div>
     </a>
