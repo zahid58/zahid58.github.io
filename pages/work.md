@@ -8,7 +8,7 @@ weight: 3
 
   <div class="card">
     <div class="row">
-      <div class="col-md-5">
+      <div class="col-md-4">
        <img src="https://raw.githubusercontent.com/zahid58/zahid58.github.io/main/images/acts/covers/erc18.jpg?token=AH3A5QFPPFILMWEN2Y2HHJTBETOVS" class="card-img-top-zahid">
       </div>
       <div class="col-md-8">
