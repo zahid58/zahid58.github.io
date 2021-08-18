@@ -12,7 +12,7 @@ weight: 3
         <img src="https://raw.githubusercontent.com/zahid58/zahid58.github.io/main/images/acts/covers/ijcnn_conf.jpg?token=AH3A5QDFCI7FKEPOWXYJF63BETORY" class="card-img">
         </div>
         <div class="col-md-8">
-          <div class="card-body">
+          <div style="align:left;" class="card-body">
             <h3 class="card-title mt-2">Islamic University of Technology (IUT)</h3>
             <h5 class="card-title mt-3" style="color: #007bff">Lecturer, Dept. of Computer Science and Engineering</h5>
             <p class="card-text">
