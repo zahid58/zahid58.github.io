@@ -17,13 +17,13 @@ weight: 3
             <h3 class="card-title mt-2">Islamic University of Technology (IUT)</h3>
             <h5 class="card-text" style="color: #007bff">Lecturer, Dept. of Computer Science and Engineering</h5>
             <p class="card-text">
-            <i>July 1,2021 - Present</i>
+            <i>July 1, 2021 -- Present</i>
                 <ul>
                     <li><b>Courses Conducted</b> - Computing for Engineers</li>
                     <li><b>Labs Conducted</b> - Data Structures, Microprocessor and Assembly Language, Engineering Drawing</li>
                 </ul>    
             </p>
-            <p class="text-center"> {% include elements/button_nt.html link="https://zahid58.github.io/CV_Md_Zahidul_Islam_IUT.pdf" text="View CV" %} </p>
+            <p class="text-center"> {% include elements/button_nt.html link="https://cse.iutoic-dhaka.edu/profile/zahidulislam" text="IUT Profile" %} </p>
           </small>
           </div>
         </div>
