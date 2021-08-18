@@ -1,53 +1,51 @@
 ---
 ---
-html {
-  padding-left: calc(100vw - 100%);
-}
+// html {
+//   padding-left: calc(100vw - 100%);
+// }
 
-body {
-  font-family: "Poppins", sans-serif;
-}
+// body {
+//   font-family: "Poppins", sans-serif;
+// }
 
-.badge {
-  font-weight: 500;
-}
+// .badge {
+//   font-weight: 500;
+// }
 
-.bg-light,
-.badge-light {
-  &,
-  * {
-    color: #343a40 !important;
-  }
-}
+// .bg-light,
+// .badge-light {
+//   &,
+//   * {
+//     color: #343a40 !important;
+//   }
+// }
 
-.bg-dark,
-.badge-dark {
-  &,
-  * {
-    color: rgba(white, .9) !important;
-  }
-}
+// .bg-dark,
+// .badge-dark {
+//   &,
+//   * {
+//     color: rgba(white, .9) !important;
+//   }
+// }
 
-
-.work.card {
-    
-    color: rgb(29, 30, 34);
-    border-radius: 15px;
-    text-decoration: none !important;
-    margin: 10px auto;
+// .work.card {
+//     color: rgb(29, 30, 34);
+//     border-radius: 15px;
+//     text-decoration: none !important;
+//     margin: 10px auto;
   
-    .card-img-top {
-      border-radius: 15px 15px 0 0;
-      margin: 1px auto;
-    }
+//     .card-img-top {
+//       border-radius: 15px 15px 0 0;
+//       margin: 1px auto;
+//     }
   
-    transition: transform 400ms;
+//     transition: transform 400ms;
 
-    &:hover:not(.post) {
-        color: rgb(29, 30, 34);
-        transform: translateY(-4px);
-        box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.24);
-    }
-    
-  }
+//     &:hover:not(.post) {
+//         color: rgb(29, 30, 34);
+//         transform: translateY(-4px);
+//         box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.24);
+//     }    
+// }
+
 @import "portfolYOU";
