@@ -1,32 +1,5 @@
 ---
 ---
-html {
-  padding-left: calc(100vw - 100%);
-}
-
-body {
-  font-family: "Poppins", sans-serif;
-}
-
-.badge {
-  font-weight: 500;
-}
-
-.bg-light,
-.badge-light {
-  &,
-  * {
-    color: #343a40 !important;
-  }
-}
-
-.bg-dark,
-.badge-dark {
-  &,
-  * {
-    color: rgba(white, .9) !important;
-  }
-}
 
 .work.card {
     color: rgb(29, 30, 34);
@@ -41,11 +14,10 @@ body {
   
     transition: transform 400ms;
 
-    &:hover:not(.post) {
-        color: rgb(29, 30, 34);
-        transform: translateY(-4px);
-        box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.24);
-    }    
+    .disable-hover,
+    .disable-hover * {
+        pointer-events: none !important;
+    }
 }
 
 @import "portfolYOU";
