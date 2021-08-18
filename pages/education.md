@@ -50,8 +50,8 @@ weight: 3
             <span><i>March 2010 - March 2016</i></span>
             </left_right>
                 <ul>
-                    <li>Higher Secondary Certicate (HSC), 2016 – GPA: 5.00/5.00, Ranked 3rd in Cumilla Education Board</li>
-                    <li>Secondary School Certicate (SSC), 2014 — GPA: 5.00/5.00, Ranked 1st in Cumilla Education Board</li>
+                    <li>Higher Secondary Certificate (HSC), 2016 – GPA: 5.00/5.00, Ranked 3rd in Cumilla Education Board</li>
+                    <li>Secondary School Certificate (SSC), 2014 — GPA: 5.00/5.00, Ranked 1st in Cumilla Education Board</li>
                 </ul>    
             </p>
             <p class="text-center"> {% include elements/button_nt.html link="https://ccc.army.mil.bd/" text="CCC Website" %} </p>
