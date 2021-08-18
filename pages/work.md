@@ -6,7 +6,7 @@ weight: 3
 ---
 
 
-<div class="col-lg-6 my-3 wow animated fadeIn" data-wow-delay=".15s">
+<div class="col-lg-12 my-6 wow animated fadeIn" data-wow-delay=".15s">
   <a href="{{ post_url }}" class="post card {{ card_style }}">
     <div class="row ">
       <div class="col-md-4">
