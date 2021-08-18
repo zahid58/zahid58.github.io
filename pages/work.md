@@ -18,6 +18,7 @@ weight: 3
         <button class="btn">Read</button>
       </div>
     </div>
+    </a>
 </div>
 
 <br/>
