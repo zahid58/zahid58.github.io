@@ -6,12 +6,12 @@ weight: 3
 ---
 <div class="card-decks">
 
-  <div class="card">
+  <div class="card mb-10">
       <div class="row">
         <div class="col-md-4">
         <img src="https://raw.githubusercontent.com/zahid58/zahid58.github.io/main/images/acts/covers/ijcnn_conf.jpg?token=AH3A5QDFCI7FKEPOWXYJF63BETORY" class="card-img">
         </div>
-        <div class="col-md-10">
+        <div class="col-md-6">
           <div class="card-body">
             <h3 class="card-title mt-2">Lecturer</h3>
             <h5 class="card-title mt-3" style="color: #007bff">Islamic University of Technology</h5>
