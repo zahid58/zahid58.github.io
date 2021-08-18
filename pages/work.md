@@ -15,8 +15,9 @@ weight: 3
           <div style="align:left;" class="card-body">
           <small>
             <h3 class="card-title mt-2">Islamic University of Technology (IUT)</h3>
-            <h5 class="card-title mt-3" style="color: #007bff">Lecturer, Dept. of Computer Science and Engineering</h5>
+            <h5 class="card-text" style="color: #007bff">Lecturer, Dept. of Computer Science and Engineering</h5>
             <p class="card-text">
+            <i>July 1,2021 - Present</i>
                 <ul>
                     <li><b>Courses Conducted</b> - Computing for Engineers</li>
                     <li><b>Labs Conducted</b> - Data Structures, Microprocessor and Assembly Language, Engineering Drawing</li>
