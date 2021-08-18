@@ -1,15 +1,21 @@
 ---
 ---
-// .work.card {
-//     border-radius: 15px;
-//     // text-decoration: none !important;
-//     margin: 10px auto;
+.work.card {
+    border-radius: 15px;
+    text-decoration: none;
+    margin: 10px auto;
   
-//     .card-img-top {
-//       border-radius: 15px 15px 15px 15px;
-//       margin: 1px auto;
-//     }
+    .card-img-top {
+      border-radius: 15px 15px 0 0;
+      margin: 1px auto;
+    }
   
-//     // transition: transform 400ms;
-//   }
+    // transition: transform 400ms;
+    &:hover {
+        color: black;
+        transform: translateY(-8px);
+        box-shadow: -2px 8px 40px -12px rgba(0, 0, 0, 0.24);
+      }
+
+  }
 @import "portfolYOU";
