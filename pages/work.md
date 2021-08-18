@@ -5,10 +5,10 @@ permalink: /work/
 weight: 3
 ---
 <div class="wow animated fadeIn" data-wow-delay=".15s">
-  <a href="{{ project_url }}" class="project card text-themed">
+  <a href=# class="project card text-themed">
     <div class="row">
       <div class="col-md-4">
-       <img src="https://raw.githubusercontent.com/zahid58/zahid58.github.io/main/images/acts/covers/ijcnn_conf.jpg?token=AH3A5QDFCI7FKEPOWXYJF63BETORY" class="card-img-top">
+       <img src="https://raw.githubusercontent.com/zahid58/zahid58.github.io/main/images/acts/covers/ijcnn_conf.jpg?token=AH3A5QDFCI7FKEPOWXYJF63BETORY" class="img-fluid">
       </div>
       <div class="col-md-8">
         <h2 class="card-title mt-2">Lecturer</h2>
@@ -18,22 +18,23 @@ weight: 3
         <button class="btn">Read</button>
       </div>
     </div>
-  </div>
+</div>
 
-  <div class="card">
-    <div class="row ">
-      <div class="col-md-4">
-       <img src="https://raw.githubusercontent.com/zahid58/zahid58.github.io/main/images/acts/covers/erc18.jpg?token=AH3A5QFPPFILMWEN2Y2HHJTBETOVS" class="img-fluid">
-      </div>
-      <div class="col-md-8">
-        <h2 class="card-title mt-2">Lecturer</h2>
-        <p class="card-text">
-            The Carousel code can be replaced with an img src, no problem. The added CSS brings shadow to the card and some adjustments.
-        </p>
-        <button class="btn">Read</button>
-      </div>
+<br/>
+<div class="card">
+  <div class="row ">
+    <div class="col-md-4">
+      <img src="https://raw.githubusercontent.com/zahid58/zahid58.github.io/main/images/acts/covers/erc18.jpg?token=AH3A5QFPPFILMWEN2Y2HHJTBETOVS" class="img-fluid">
+    </div>
+    <div class="col-md-8">
+      <h2 class="card-title mt-2">Lecturer</h2>
+      <p class="card-text">
+          The Carousel code can be replaced with an img src, no problem. The added CSS brings shadow to the card and some adjustments.
+      </p>
+      <button class="btn">Read</button>
     </div>
   </div>
+</div>
 
 <!-- <div class="row">
 {% include work/timeline.html %}
