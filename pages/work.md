@@ -4,7 +4,7 @@ title: Work Experience
 permalink: /work/
 weight: 3
 ---
-<div class="card-columns m-3 mt-5">
+<div class="card-decks m-3 mt-5">
 
   <div class="wow animated fadeIn" data-wow-delay=".15s">
     <a href="#" class="project card text-themed">
