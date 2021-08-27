@@ -24,6 +24,7 @@ weight: 3
 <br/>
 
 <h3 align="left"><b>Reviewing Experience</b></h3>
+<br/>
 <ul>
   <li>Worked as a reviewer for the journal <b>IEEE Access (x2)</b></li>
   <li>Worked as a reviewer for the journal <b>Applied Artificial Intelligence (AAAI)</b></li>
