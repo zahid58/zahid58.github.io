@@ -25,6 +25,7 @@ weight: 3
                 <ul>
                     <li><b>CGPA - 3.99</b>/4.00 <i>(Ranked <b>1st</b> in class of 86)</i></li>
                     <li><b>Thesis</b> - Efficient Two-Stream Network for Violence Detection Using Separable Convolutional LSTM</li>
+                    <li><b>Supervisor</b> - Dr. Md. Hasanul Kabir</li>
                 </ul>    
             </p>
             <p class="text-center"> {% include elements/button_nt.html link="https://www.iutoic-dhaka.edu/" text="IUT Website" %}</p>

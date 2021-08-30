@@ -51,8 +51,9 @@ weight: 3
             <span><i>March 2021 - July 2021</i></span>
             </left_right>
                 <ul>
-                    <li>Worked on research and development of large-scale Bangla OCR systems</li>
-                    <li>Development & integration of image processing and machine learning based methods for computer vision tasks</li>
+                    <li>Research and development of large-scale Bengali Optical Character Recognition (OCR) pipelines.</li>
+                    <li>Developed and optimized deep learning models for grapheme-based bengali character recognition.</li>
+                    <li>Implemented image processing & deep learning methods for word detection & character segmentation.</li>
                 </ul>    
             </p>
             <p class="text-center"> {% include elements/button_nt.html link="https://apurba.com.bd/" text="Apurba Website" %} </p>
