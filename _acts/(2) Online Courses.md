@@ -133,7 +133,7 @@ description: Completed various courses at Coursera on topics such as Deep Learni
               <span><i>Coursera</i></span>
               <span><i>June 2020</i></span>
               </left_right>
-              <p><b>Algorithms used for adjusting images, JPEG and MPEG standards for encoding and compressing video images, image segmentation, noise removal & filtering, medical image processing</p>
+              <p>Algorithms used for adjusting images, JPEG and MPEG standards for encoding and compressing video images, image segmentation, noise removal & filtering, medical image processing</p>
               <p class="text-center"> {% include elements/button_nt.html link="https://www.coursera.org/account/accomplishments/certificate/6BP5EG3BMTH9" text="verify" %}</p>
             </p>
           </small>
@@ -141,8 +141,6 @@ description: Completed various courses at Coursera on topics such as Deep Learni
         </div>
       </div>
   </div>
-
-
 </div>
 
 <br/>
