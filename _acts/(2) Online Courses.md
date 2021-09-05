@@ -32,7 +32,7 @@ description: Completed various courses at Coursera on topics such as Deep Learni
             <p class="card-text">
               <left_right>
               <span><i>Coursera</i></span>
-              <span><i>August 2019 - Feb 2020</i></span>
+              <span><i>Sept 2019 - Feb 2020</i></span>
               </left_right>
               <p><b>Courses offered in this Specialization</b> - Neural Networks & Deep Learning, Improving Deep Neural Networks, Convolutional Neural Networks, Sequence Models</p>
               <p class="text-center"> {% include elements/button_nt.html link="https://www.coursera.org/account/accomplishments/specialization/certificate/KCHXFEXZJ2RW" text="verify" %}</p>
@@ -43,30 +43,25 @@ description: Completed various courses at Coursera on topics such as Deep Learni
       </div>
   </div>
   
-
-
   <div class="card mb-11">
       <div class="row">
-        <div class="col-md-4">
-        <img src="https://zahid58.github.io/images/work/apurba.png" class="card-img" alt="apurba logo">
+        <div class="col-md-5">
+        <img src="https://zahid58.github.io/images/online_courses/tensorflow.jpg" class="card-img" alt="tensorflow developer">
         </div>
-        <div class="col-md-8">
+        <div class="col-md-7">
           <div style="align:left;" class="card-body">
           <small>
-            <h3 class="card-title mt-2">Apurba Technologies Ltd.</h3>
-            <h5 class="card-text" style="color: #007bff">Machine Learning Engineer, Computer Vision</h5>
+            <h5 class="card-title mt-2">Tensorflow Developer</h5>
+            <h6 class="card-text" style="color: #007bff">deeplearning.ai</h6>
             <p class="card-text">
-            <left_right>
-            <span><i>Dhaka, Bangladesh</i></span>
-            <span><i>March 2021 - July 2021</i></span>
-            </left_right>
-                <ul>
-                    <li>Research and development of large-scale Bengali Optical Character Recognition (OCR) pipelines.</li>
-                    <li>Developed and optimized deep learning models for grapheme-based bengali character recognition.</li>
-                    <li>Implemented image processing & deep learning methods for word detection & character segmentation.</li>
-                </ul>    
+              <left_right>
+              <span><i>Coursera</i></span>
+              <span><i>April 2020</i></span>
+              </left_right>
+              <p> Developing convolutional models to identify real-world images, developing NLP models that understand,
+                  analyze human speech </p>
+              <p class="text-center"> {% include elements/button_nt.html link="https://www.coursera.org/account/accomplishments/specialization/certificate/6K8JNGEJA5WQ" text="verify" %}</p>
             </p>
-            <p class="text-center"> {% include elements/button_nt.html link="https://apurba.com.bd/" text="Apurba Website" %} </p>
           </small>
           </div>
         </div>
@@ -76,25 +71,71 @@ description: Completed various courses at Coursera on topics such as Deep Learni
 
   <div class="card mb-11">
       <div class="row">
-        <div class="col-md-4">
-        <img src="https://zahid58.github.io/images/work/samsung.png" class="card-img" alt="srbd logo">
+        <div class="col-md-5">
+        <img src="https://zahid58.github.io/images/online_courses/deeplearning.jpg" class="card-img" alt="deep learning">
         </div>
-        <div class="col-md-8">
+        <div class="col-md-7">
           <div style="align:left;" class="card-body">
           <small>
-            <h3 class="card-title mt-2">Samsung R & D Institute Bangladesh</h3>
-            <h5 class="card-text" style="color: #007bff">Intern, Research & Development</h5>
+            <h5 class="card-title mt-2">Build Basic Generative Adversarial Networks (GANs)</h5>
+            <h6 class="card-text" style="color: #007bff">deeplearning.ai</h6>
             <p class="card-text">
-            <left_right>
-            <span><i>Dhaka, Bangladesh</i></span>
-            <span><i>Nov 2021 - Dec 2021</i></span>
-            </left_right>
-                <ul>
-                    <li>Worked on recognition of human walking patterns using deep learning
-techniques on smartphone accelerometer data to identify real user of smartphone.</li>
-                </ul>    
+              <left_right>
+              <span><i>Coursera</i></span>
+              <span><i>Dec 2020</i></span>
+              </left_right>
+              <p>Fundamentals of GANs, Implementing multiple basic GAN architectures, Building conditional GANs capable of generating examples from determined categories</p>
+              <p class="text-center"> {% include elements/button_nt.html link="https://www.coursera.org/account/accomplishments/certificate/NA9YQJFCKX5V" text="verify" %}</p>
             </p>
-            <p class="text-center"> {% include elements/button_nt.html link="https://research.samsung.com/srbd" text="SRBD Website" %} </p>
+          </small>
+          </div>
+        </div>
+      </div>
+  </div>
+
+
+  <div class="card mb-11">
+      <div class="row">
+        <div class="col-md-5">
+        <img src="https://zahid58.github.io/images/online_courses/optimize.jpg" class="card-img" alt="artificial intelligence">
+        </div>
+        <div class="col-md-7">
+          <div style="align:left;" class="card-body">
+          <small>
+            <h5 class="card-title mt-2">Basic Modeling for Discrete Optimization</h5>
+            <h6 class="card-text" style="color: #007bff">The University of Melbourne, The Chinese University of Hong Kong</h6>
+            <p class="card-text">
+              <left_right>
+              <span><i>Coursera</i></span>
+              <span><i>Aug 2019</i></span>
+              </left_right>
+              <p>Constraint Programming with Minizinc and applications on solving real-life problems related to decision making and optimization problems</p>
+              <p class="text-center"> {% include elements/button_nt.html link="https://www.coursera.org/account/accomplishments/certificate/CD7LAVEDC2NY" text="verify" %}</p>
+            </p>
+          </small>
+          </div>
+        </div>
+      </div>
+  </div>
+
+  <div class="card mb-11">
+      <div class="row">
+        <div class="col-md-5">
+        <img src="https://zahid58.github.io/images/online_courses/imageprocessing.jpg" class="card-img" alt="image processing">
+        </div>
+        <div class="col-md-7">
+          <div style="align:left;" class="card-body">
+          <small>
+            <h5 class="card-title mt-2">Image and Video Processing</h5>
+            <h6 class="card-text" style="color: #007bff">Duke University</h6>
+            <p class="card-text">
+              <left_right>
+              <span><i>Coursera</i></span>
+              <span><i>June 2020</i></span>
+              </left_right>
+              <p><b>Algorithms used for adjusting images, JPEG and MPEG standards for encoding and compressing video images, image segmentation, noise removal & filtering, medical image processing</p>
+              <p class="text-center"> {% include elements/button_nt.html link="https://www.coursera.org/account/accomplishments/certificate/6BP5EG3BMTH9" text="verify" %}</p>
+            </p>
           </small>
           </div>
         </div>
@@ -103,9 +144,6 @@ techniques on smartphone accelerometer data to identify real user of smartphone.
 
 
 </div>
-
-
-
 
 <br/>
 
