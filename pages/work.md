@@ -9,27 +9,25 @@ weight: 3
   <div class="card mb-11">
       <div class="row">
         <div class="col-md-4">
-        <img src="https://zahid58.github.io/images/online_courses/deeplearning.png" class="card-img" alt="deep learning">
+        <img src="https://zahid58.github.io/images/work/IUT.png" class="card-img" alt="IUT logo">
         </div>
         <div class="col-md-8">
           <div style="align:left;" class="card-body">
           <small>
-            <h3 class="card-title mt-2">Deep Learning Specialization</h3>
-            <h5 class="card-text" style="color: #007bff">deeplearning.ai</h5>
+            <h3 class="card-title mt-2">Islamic University of Technology (IUT)</h3>
+            <h5 class="card-text" style="color: #007bff">Lecturer, Dept. of Computer Science and Engineering</h5>
             <p class="card-text">
             <left_right>
-            <span><i>Coursera</i></span>
-            <span><i>August 2019 - Feb 2020</i></span>
+            <span><i>Dhaka, Bangladesh</i></span>
+            <span><i>July 2021 - Present</i></span>
             </left_right>
-            <p class="text-center"><b>Courses in this Specialization</b></p>
                 <ul>
-                    <li>Neural Networks & Deep Learning</li>
-                    <li>Improving Deep Neural Networks</li>
-                    <li>Convolutional Neural Networks</li>
-                    <li>Sequence Models</li>
+                    <li><b>Courses Conducted</b> - Computing for Engineers</li>
+                    <li><b>Labs Conducted</b> - Data Structures, Microprocessor and Assembly Language, Engineering Drawing</li>
                 </ul>    
             </p>
-            <p class="text-center"> {% include elements/button_nt.html link="https://www.coursera.org/account/accomplishments/specialization/certificate/KCHXFEXZJ2RW" text="verify" %}</p>
+            <p class="text-center"> {% include elements/button_nt.html link="https://www.iutoic-dhaka.edu/" text="IUT Website" %}
+            {% include elements/button_nt.html link="https://cse.iutoic-dhaka.edu/profile/zahidulislam" text="My Profile" %} </p>
           </small>
           </div>
         </div>
