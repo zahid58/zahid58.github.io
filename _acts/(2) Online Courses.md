@@ -30,12 +30,13 @@ description: Completed various courses at Coursera on topics such as Deep Learni
             <h5 class="card-title mt-2">Deep Learning Specialization</h5>
             <h6 class="card-text" style="color: #007bff">deeplearning.ai</h6>
             <p class="card-text">
-            <left_right>
-            <span><i>Coursera</i></span>
-            <span><i>August 2019 - Feb 2020</i></span>
-            </left_right>
-            <p><b>Courses offered in this Specialization</b> - Neural Networks & Deep Learning, Improving Deep Neural Networks, Convolutional Neural Networks, Sequence Models</p>
-            <p class="text-center"> {% include elements/button_nt.html link="https://www.coursera.org/account/accomplishments/specialization/certificate/KCHXFEXZJ2RW" text="verify" %}</p>
+              <left_right>
+              <span><i>Coursera</i></span>
+              <span><i>August 2019 - Feb 2020</i></span>
+              </left_right>
+              <p><b>Courses offered in this Specialization</b> - Neural Networks & Deep Learning, Improving Deep Neural Networks, Convolutional Neural Networks, Sequence Models</p>
+              <p class="text-center"> {% include elements/button_nt.html link="https://www.coursera.org/account/accomplishments/specialization/certificate/KCHXFEXZJ2RW" text="verify" %}</p>
+            </p>
           </small>
           </div>
         </div>
@@ -99,6 +100,7 @@ techniques on smartphone accelerometer data to identify real user of smartphone.
         </div>
       </div>
   </div>
+
 
 </div>
 
