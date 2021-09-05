@@ -13,17 +13,9 @@ description: Completed various courses at Coursera on topics such as Deep Learni
 <h7 style="text-align: justify;">To keep myself updated with the latest developments in Computer Science and deepen my knowledge of the fundamentals, I have completed several courses on the platform <b>Coursera</b> ranging from Algorithms, Image Processing to Constraint Optimization, Machine Learning and Deep Learning. </h7>
 <br/>
 <br/>
-<!-- 
-<left_right>
-<span><h3 align="left"><b>Completed Courses</b></h3></span>
-<span>{% include elements/button_nt.html link="https://orcid.org/0000-0001-8246-632X" text="ORCID Profile" %}</span>
-</left_right>
-<br/>
-<br/> -->
 
 <h3 align="left"><b>Completed Courses</b></h3>
 <br/>
-
 
 <div class="card-decks">
 
