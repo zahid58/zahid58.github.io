@@ -21,7 +21,7 @@ description: Completed various courses at Coursera on topics such as Deep Learni
   
   <div class="card mb-11">
       <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-6">
         <img src="https://zahid58.github.io/images/online_courses/deeplearning.jpg" class="card-img" alt="deep learning">
         </div>
         <div class="col-md-8">
