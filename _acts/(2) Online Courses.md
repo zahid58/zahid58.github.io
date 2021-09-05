@@ -27,8 +27,8 @@ description: Completed various courses at Coursera on topics such as Deep Learni
         <div class="col-md-7">
           <div style="align:left;" class="card-body">
           <small>
-            <h5 class="card-title mt-2">Deep Learning Specialization</h3>
-            <h6 class="card-text" style="color: #007bff">deeplearning.ai</h5>
+            <h5 class="card-title mt-2">Deep Learning Specialization</h5>
+            <h6 class="card-text" style="color: #007bff">deeplearning.ai</h6>
             <p class="card-text">
             <left_right>
             <span><i>Coursera</i></span>
