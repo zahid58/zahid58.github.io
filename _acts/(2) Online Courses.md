@@ -27,21 +27,14 @@ description: Completed various courses at Coursera on topics such as Deep Learni
         <div class="col-md-7">
           <div style="align:left;" class="card-body">
           <small>
-            <h3 class="card-title mt-2">Deep Learning Specialization</h3>
-            <h5 class="card-text" style="color: #007bff">deeplearning.ai</h5>
+            <h5 class="card-title mt-2">Deep Learning Specialization</h3>
+            <h6 class="card-text" style="color: #007bff">deeplearning.ai</h5>
             <p class="card-text">
             <left_right>
             <span><i>Coursera</i></span>
             <span><i>August 2019 - Feb 2020</i></span>
             </left_right>
-            <p><b>Courses offered in this Specialization</b></p>
-                <ul>
-                    <li>Neural Networks & Deep Learning</li>
-                    <li>Improving Deep Neural Networks</li>
-                    <li>Convolutional Neural Networks</li>
-                    <li>Sequence Models</li>
-                </ul>    
-            </p>
+            <p><b>Courses offered in this Specialization</b> - Neural Networks & Deep Learning, Improving Deep Neural Networks, Convolutional Neural Networks, Sequence Models</p>
             <p class="text-center"> {% include elements/button_nt.html link="https://www.coursera.org/account/accomplishments/specialization/certificate/KCHXFEXZJ2RW" text="verify" %}</p>
           </small>
           </div>
