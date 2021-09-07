@@ -45,12 +45,13 @@ During my time at Apurba, I was mainly involved with -
 <ul>
   <li>Improved word detection in the OCR pipeline by replacing image processing algorithm with a deep learning based solution leveraging EAST neural network.</li>
   <li>Modified EAST with custom CNN such as Mobilenets and fine-tuned it for Bangla Printed and Hand-written text documents.</li>
-  <li>The model takes a document image as input and outputs bounding boxes for each word in the document.</li>
+  <li>The model takes a document image as input and outputs bounding boxes for each word in the document.</li><br/>
+  <img src="https://zahid58.github.io/images/work/apurba/inputoutput.jpg" align="left" hspace="10" vspace="10"/>
 </ul>
 </p>
 
 <br/>
-<img src="https://zahid58.github.io/images/work/apurba/inputoutput.jpg" align="center" hspace="10" vspace="10"/>
+
 
 <br/>
 <br/> 
