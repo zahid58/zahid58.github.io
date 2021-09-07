@@ -38,7 +38,7 @@ During my time at Apurba, I was mainly involved with -
 <br/>
 <br/> -->
 
-<h3 align="left"><b>Bangla Word Detection</b></h3>
+<h3 align="left"><b>Word Segmentation for Bangla Document Images</b></h3>
 <br/>
 
 <ul>
@@ -49,7 +49,7 @@ During my time at Apurba, I was mainly involved with -
 
 <br/>
 
-<div class="row">
+<div class="row" align="center">
   <div class="column">
     <img src="https://zahid58.github.io/images/work/apurba/inputoutput.jpg" hspace="10" vspace="10">
   </div>
