@@ -67,7 +67,7 @@ During my time at Apurba, I was mainly involved with -
 
 <ul>
   <li>As bangla has a complex writing system with frequent usage of vowel and consonant, we developed grapheme based deep models which predicts the three components of a bangla character - grapheme root, vowel diacritic, consonant diacritic.</li>
-  <li>Designed a mobilenet based model which is computationally inexpensive but still retains good performance indicating its potential usefulness in mobile applications.
+  <li>Designed a mobilenet based model which is computationally inexpensive but still retains good performance indicating its potential usefulness in mobile applications.</li>
   <br/>
 </ul>
 
