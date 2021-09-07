@@ -5,7 +5,7 @@ permalink: /work_at_apurba/
 weight: 3
 ---
 <div align="center">
-<h2><b>My works</b> at Apurba Tech</h2>
+<h2><b>My Works</b> at Apurba Tech</h2>
 </div>
 <hr/>
 <h7 style="text-align: justify;">Apurba technologies Inc is a USA-based software development company, with regional offices in Bangladesh and Malaysia, that creates enterprise big data solutions using NLP, machine learning, and Computer Vision.
@@ -36,14 +36,23 @@ During my time at Apurba, I was mainly involved with -
 </div>
 
 <br/>
-<br/>
+<br/> -->
 
-<h3 align="left"><b>Reviewing Experience</b></h3>
+<h3 align="left"><b>Bangla Word Detection</b></h3>
 <br/>
+<p>
+<img src="https://zahid58.github.io/images/work/apurba/inputoutput.jpg" align="right" hspace="10" vspace="10"/>
+<ul>
+  <li>Improved word detection in the OCR pipeline by replacing image processing algorithm with a deep learning based solution leveraging EAST neural network.</li>
+  <li>Modified EAST with custom CNN such as Mobilenets and fine-tuned it for Bangla Printed and Hand-written text documents.</li>
+  <li>The model takes a document image as input and outputs bounding boxes for each word in the document.</li>
+</ul>
+<br/>
+<img src="https://zahid58.github.io/images/work/apurba/inputoutput.jpg" align="right" hspace="10" vspace="10"/>
+</p>
 
-<br/>
 
 <br/>
 <br/> 
 
-<hr/> -->
+<hr/>
