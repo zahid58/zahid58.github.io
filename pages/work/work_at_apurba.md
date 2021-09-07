@@ -49,10 +49,13 @@ During my time at Apurba, I was mainly involved with -
 
 <div class="row" align="center">
   <div class="column" align="center">
-    <img src="https://zahid58.github.io/images/work/apurba/inputoutput.jpg" hspace="10" vspace="10">
+    <img src="https://zahid58.github.io/images/work/apurba/inputoutput.jpg" hspace="6" vspace="6">
   </div>
   <div class="column" align="center">
-    <img src="https://zahid58.github.io/images/work/apurba/east.jpg" hspace="10" vspace="10">
+    <img src="https://zahid58.github.io/images/work/apurba/east.jpg" hspace="6" vspace="6">
+  </div>
+    <div class="column" align="center">
+    <img src="https://zahid58.github.io/images/work/apurba/output.jpg" hspace="6" vspace="6">
   </div>
 </div>
 
