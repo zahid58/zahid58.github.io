@@ -2,7 +2,7 @@
 name: Online Courses
 tools: [2021, 2020, 2019]
 image: https://zahid58.github.io/images/acts/covers/online_courses.jpg
-description: Completed various courses at Coursera on topics such as Deep Learning, Tensorflow, Machine Learning, Image Processing, Constraint Optimization etc. <b>Click for Details</b>
+description: Completed various courses at Coursera on topics such as Deep Learning, Tensorflow, Machine Learning, Image Processing, Constraint Optimization etc. {% include elements/button.html link="" text="Click for Details" %}
 # external_url: "#"
 ---
 
@@ -72,7 +72,7 @@ description: Completed various courses at Coursera on topics such as Deep Learni
   <div class="card mb-11">
       <div class="row">
         <div class="col-md-5">
-        <img src="https://zahid58.github.io/images/online_courses/deeplearning.jpg" class="card-img" alt="deep learning">
+        <img src="https://zahid58.github.io/images/online_courses/basicGAN.jpg" class="card-img" alt="deep learning">
         </div>
         <div class="col-md-7">
           <div style="align:left;" class="card-body">
