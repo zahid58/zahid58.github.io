@@ -47,10 +47,18 @@ During my time at Apurba, I was mainly involved with -
   <li>The model takes a document image as input and outputs bounding boxes for each word in the document.</li><br/>
 </ul>
 
-<img src="https://zahid58.github.io/images/work/apurba/inputoutput.jpg" align="center" hspace="10" vspace="10"/>
-<img src="https://zahid58.github.io/images/work/apurba/east.jpg" align="center" hspace="10" vspace="10"/>
+<br/>
+
+<div class="row">
+  <div class="column">
+    <img src="https://zahid58.github.io/images/work/apurba/inputoutput.jpg" hspace="10" vspace="10">
+  </div>
+  <div class="column">
+    <img src="https://zahid58.github.io/images/work/apurba/east.jpg" hspace="10" vspace="10">
+  </div>
+</div>
 
 <br/>
 <br/>
-<br/> 
-
+<br/>
+<hr/>
