@@ -47,7 +47,7 @@ During my time at Apurba, I was mainly involved with -
   <li>The model takes a document image as input and outputs bounding boxes for each word in the document.</li><br/>
 </ul>
 
-<div class="row" align="center">
+<div class="row" style="justify-content:center;align-items:center;">
   <div class="column" align="center">
     <img src="https://zahid58.github.io/images/work/apurba/inputoutput.jpg" hspace="6" vspace="6">
   </div>
@@ -61,5 +61,44 @@ During my time at Apurba, I was mainly involved with -
 
 <br/>
 <br/>
+
+<h3 align="left"><b>Grapheme-based Optical Character Recognition</b></h3>
+<br/>
+
+<ul>
+  <li>As bangla has a complex writing system with frequent usage of vowel and consonant, we developed grapheme based deep models which predicts the three components of a bangla character - grapheme root, vowel diacritic, consonant diacritic.</li>
+  <li>Designed a mobilenet based model which is computationally inexpensive but still retains good performance indicating its potential usefulness in mobile applications.
+  <br/>
+</ul>
+
+<div class="row" style="justify-content:center;align-items:center;">
+  <div class="column" align="center">
+    <img src="https://zahid58.github.io/images/work/apurba/grapheme.jpg" hspace="6" vspace="6">
+  </div>
+</div>
+
+<br/>
+<br/>
+
+<h3 align="left"><b>Character Segmentation from Cropped Word Images</b></h3>
+<br/>
+
+<ul>
+  <li>Developed image processing based algorithms for segmenting out individual characters in a given image of a cropped word.</li>
+  <br/>
+</ul>
+
+<div class="row" style="justify-content:center;align-items:center;">
+  <div class="column" align="center">
+    <img src="https://zahid58.github.io/images/work/apurba/charseg2.jpg" hspace="6" vspace="6">
+  </div>
+    <div class="column" align="center">
+    <img src="https://zahid58.github.io/images/work/apurba/charseg.jpg" hspace="6" vspace="6">
+  </div>
+</div>
+
+<br/>
+<br/>
+
 <br/>
 <hr/>
