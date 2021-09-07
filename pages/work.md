@@ -56,7 +56,7 @@ weight: 3
                     <li>Implemented image processing & deep learning methods for word detection & character segmentation.</li>
                 </ul>    
             </p>
-            <p class="text-center"> {% include elements/button_nt.html link="/work/apurba/" text="My Works at Apurba" %} {% include elements/button_nt.html link="https://apurba.com.bd/" text="Apurba Website" %} </p>
+            <p class="text-center"> {% include elements/button_nt.html link="/work_at_apurba/" text="My Works at Apurba" %} {% include elements/button_nt.html link="https://apurba.com.bd/" text="Apurba Website" %} </p>
           </small>
           </div>
         </div>

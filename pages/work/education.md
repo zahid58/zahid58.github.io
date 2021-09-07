@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Education
-permalink: /work/apurba/
+permalink: /work_at_apurba/
 weight: 3
 ---
 
