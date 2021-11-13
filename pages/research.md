@@ -8,7 +8,7 @@ weight: 3
 <h2><b>Research</b> Experience</h2>
 </div>
 <hr/>
-<h7 style="text-align: justify;">My research interests include <b>Computer Vision</b>, <b>Machine Learning</b> and their <b>real-world applications</b>. Specifically, I am interested in human behavior analysis, activity recognition and their application in video surveillance. My final year undergraduate thesis was on "Automatic detection of violence from surveillance footage" (Published in IJCNN 2021). During this time, I got to explore the impactful and diverse field of Vision. I intend to produce more works in this field.</h7>
+<h7 style="text-align: justify;">My research interests lie in the domain of <b>Computer Vision</b>, <b>Machine Learning</b> and their <b>real-world applications</b>. I am particularly interested in human behavior and activity recognition, object detection and video understanding. Since my final year undergraduate thesis on "Automatic Violence Detection from Surveillance Footage" (Published in IJCNN 2021), I am exploring the diverse and impactful research are of Computer Vision. I intend to produce more works in this field.</h7>
 <br/>
 <br/>
 
