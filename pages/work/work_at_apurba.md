@@ -42,9 +42,9 @@ During my time at Apurba, I was mainly involved with -
 <h3 align="left"><b>Publication</b></h3>
 <br/>
 
-<ul>
-  <li>AKM Shahariar Azad Rabby, Md. Majedul Islam, <b>Zahidul Islam</b>, Nazmul Hasan, Fuad Rahman, <b>"Towards Building A Robust Large-Scale Bangla Text Recognition Solution Using A Unique Multiple-Domain Character-Based Document Recognition Approach"</b>, 20th IEEE International Conference on Machine Learning and Applications (ICMLA), December 13-16, 2021, <b>(Accepted for Publication)</b> </li>
-</ul>
+
+  [1] AKM Shahariar Azad Rabby, Md. Majedul Islam, <b>Zahidul Islam</b>, Nazmul Hasan, Fuad Rahman, <b>"Towards Building A Robust Large-Scale Bangla Text Recognition Solution Using A Unique Multiple-Domain Character-Based Document Recognition Approach"</b>, 20th IEEE International Conference on Machine Learning and Applications (ICMLA), December 13-16, 2021, <b>(Accepted for Publication)</b>
+
 <br/>
 <br/>
 
