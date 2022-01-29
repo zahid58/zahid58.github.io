@@ -9,9 +9,9 @@
 
 - title: Towards Building A Robust Large-Scale Bangla Text Recognition Solution Using A Unique Multiple-Domain Character-Based Document Recognition Approach
   authors: AKM Shahariar Azad Rabby, Md. Majedul Islam, Zahidul Islam, Nazmul Hasan, Fuad Rahman
-  jorc: (Accepted for Publication) 20th IEEE International Conference on Machine Learning and Applications (ICMLA), 2021
+  jorc: 2021 20th IEEE International Conference on Machine Learning and Applications (ICMLA)
   cover: https://zahid58.github.io/images/research/largescaleOCR.jpg
-  date: December 2021 
+  date: 13-16 Dec. 2021
   abstract: Bangla is one of the world’s top ten popular languages in terms of the num- ber of speakers. It also happens to have a complex script primarily because of the presence of complex characters e.g. graphemes, that are composed of multiple single characters, and the characteristic shorthands e.g. vowel dia- critics, and consonant diacritics, making the number of classes of this script recognition quite large, varied and challenging. In this paper, we present a unique large-scale Bangla document OCR solution based on character-level recognition modules. We have tested our approach on two independent domains - printed and handwritten documents. We also applied our solution to three subdomains within the printed domain - computer-composed documents, letterpress documents, and typewritten documents. Our extensive experiments show that our approach achieves state-of-the-art performance on handwritten and printed documents.
-  link: 
-  linkname: coming soon
+  link: https://ieeexplore.ieee.org/abstract/document/9680139
+  linkname: Paper
