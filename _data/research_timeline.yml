@@ -15,3 +15,8 @@
   abstract: Bangla is one of the world’s top ten popular languages in terms of the num- ber of speakers. It also happens to have a complex script primarily because of the presence of complex characters e.g. graphemes, that are composed of multiple single characters, and the characteristic shorthands e.g. vowel dia- critics, and consonant diacritics, making the number of classes of this script recognition quite large, varied and challenging. In this paper, we present a unique large-scale Bangla document OCR solution based on character-level recognition modules. We have tested our approach on two independent domains - printed and handwritten documents. We also applied our solution to three subdomains within the printed domain - computer-composed documents, letterpress documents, and typewritten documents. Our extensive experiments show that our approach achieves state-of-the-art performance on handwritten and printed documents.
   link: https://ieeexplore.ieee.org/abstract/document/9680139
   linkname: Paper
+
+- title: Leveraging Transformer Network and Inter-feature Correlation for Forecasting Weather in Bangladesh
+  authors: Zahidul Islam, Raisa Fariha
+  jorc: Submitted for Peer-Review
+  date: Sept. 2022
