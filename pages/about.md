@@ -12,8 +12,20 @@ weight: 3
   <img src="https://readme-typing-svg.herokuapp.com?lines=Lecturer,+Dept.+of+CSE,+ IUT;Computer+Vision+and+Deep+Learning+Researcher&center=true&width=600&height=50">
 </p>
 <hr/>
-<h7 align="justify">As cliché as it may sound, I've been a technophile for as long as I can remember. I believe this fascination for science and technology has guided me throughout my journey to today. Currently, I am a Lecturer in the dept. of Computer Science and Engineering at Islamic University of Technology (IUT). Before that, I worked as a Machine Learning Engineer at Apurba Technologies Ltd where I worked on Bangla OCR systems. I graduated top of my class from IUT on March 2021. <br/>
-My primary research field is Computer Vision, Machine Learning and their real-life applications. I am interested to develop robust and efficient vision algorithms for visual recognition and interpretation that are effective across various domains in the real-world. I am also interested in vision and AI algorithms that can improve safety and security in society. One way to do that is to explore how machines can better recognize and understand human appearance, behaviors, attributes and interactions in an interpretable manner. Specifically, I am interested to work on image and video recognition, biometrics, and action recognition. My final year undergraduate thesis was on "Efficient Violence Detection from Surveillance Footage" (Published in IJCNN 2021)Currently, I am continuing research in this field with IUT Computer Vision Lab (IUT CV Lab). I like to develop small projects on Github as a hobby. In my spare time, I like to explore deep mysteries of the universe and history of humanity.</h7>
+<h7 align="justify">
+As cliché as it may sound, I've been a technophile for as long as I can remember. I believe this fascination for science and technology has guided me throughout my journey to today. I am currently working as a Lecturer in the dept. of Computer Science and Engineering at Islamic University of Technology (IUT). Previously, I worked as a Machine Learning Engineer at Apurba Technologies Ltd where I worked on Bangla OCR systems. I have been ranked 1st (combined) in the Graduating Batch of 2021 of the CSE dept. at IUT.
+
+My primary research field is Computer Vision, Machine Learning and their real-life applications. I am interested to develop robust and efficient vision algorithms for visual recognition and interpretation that are effective across various domains in the real-world. I am also interested in vision and AI algorithms that can improve safety and security in society. One way to do that is to explore how machines can better recognize and understand human appearance, behaviors, attributes and interactions in an interpretable manner. Specifically, I am interested to work on image and video recognition, biometrics, and action recognition. My final year undergraduate thesis was on "Efficient Violence Detection from Surveillance Footage" (Published in IJCNN 2021). 
+
+Currently, I am continuing research in this field with IUT Computer Vision Lab (IUT CV Lab). I like to develop small projects on Github as a hobby. In my spare time, I like to explore deep mysteries of the universe and history of humanity.
+
+IUT Profile: https://cse.iutoic-dhaka.edu/profile/zahidulislam
+Personal Website: https://zahid58.github.io/
+Google Scholar: https://scholar.google.com/citations?user=jmjN3k8AAAAJ&hl=en
+Github: https://github.com/zahid58
+LinkedIn: https://www.linkedin.com/in/zahid58/
+My CV: https://zahid58.github.io/CV_Md_Zahidul_Islam_IUT.pdf
+</h7>
 <br/>
 <br/>
 
