@@ -18,17 +18,16 @@ As cliché as it may sound, I've been a technophile for as long as I can remembe
 My primary research field is Computer Vision, Machine Learning and their real-life applications. I am interested to develop robust and efficient vision algorithms for visual recognition and interpretation that are effective across various domains in the real-world. I am also interested in vision and AI algorithms that can improve safety and security in society. One way to do that is to explore how machines can better recognize and understand human appearance, behaviors, attributes and interactions in an interpretable manner. Specifically, I am interested to work on image and video recognition, biometrics, and action recognition. My final year undergraduate thesis was on "Efficient Violence Detection from Surveillance Footage" (Published in IJCNN 2021). 
 
 Currently, I am continuing research in this field with IUT Computer Vision Lab (IUT CV Lab). I like to develop small projects on Github as a hobby. In my spare time, I like to explore deep mysteries of the universe and history of humanity.
-
-IUT Profile: https://cse.iutoic-dhaka.edu/profile/zahidulislam
-Personal Website: https://zahid58.github.io/
-Google Scholar: https://scholar.google.com/citations?user=jmjN3k8AAAAJ&hl=en
-Github: https://github.com/zahid58
-LinkedIn: https://www.linkedin.com/in/zahid58/
-My CV: https://zahid58.github.io/CV_Md_Zahidul_Islam_IUT.pdf
 </h7>
 <br/>
+<p class="text-center"> 
+{% include elements/button_nt.html link="https://cse.iutoic-dhaka.edu/profile/zahidulislam" text="IUT Profile" style="primary" %}
+{% include elements/button_nt.html link="https://scholar.google.com/citations?user=jmjN3k8AAAAJ&hl=en" text="Google Scholar" style="primary" %}
+{% include elements/button_nt.html link="https://github.com/zahid58" text="GitHub" style="primary" %}
+{% include elements/button_nt.html link="https://www.linkedin.com/in/zahid58/" text="LinkedIn" style="primary" %}
+{% include elements/button_nt.html link="https://zahid58.github.io/CV_Md_Zahidul_Islam_IUT.pdf" text="View CV" style="primary" %}
+</p>
 <br/>
-
 <h3 align="left"><b>Professional Skills</b></h3>
 <ul>
   <li><b>Languages</b> - Python, Java, C++, C, SQL</li>
@@ -40,7 +39,7 @@ My CV: https://zahid58.github.io/CV_Md_Zahidul_Islam_IUT.pdf
 
 <br/>
 
-<p class="text-center"> {% include elements/button_nt.html link="https://zahid58.github.io/CV_Md_Zahidul_Islam_IUT.pdf" text="View CV" style="primary" %} </p>
+<!-- <p class="text-center"> {% include elements/button_nt.html link="https://zahid58.github.io/CV_Md_Zahidul_Islam_IUT.pdf" text="View CV" style="primary" %} </p> -->
 
 <br/>
 <br/>
