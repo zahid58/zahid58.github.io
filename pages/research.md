@@ -14,7 +14,7 @@ I am also interested in vision and AI algorithms that can improve safety and sec
 <br/>
 
 <left_right>
-<span><h3 align="left"><b>Publications (2)</b></h3></span>
+<span><h3 align="left"><b>Publications (4)</b></h3></span>
 <span>{% include elements/button_nt.html link="https://orcid.org/0000-0001-8246-632X" text="ORCID Profile" %}</span>
 </left_right>
 <div class="row">
