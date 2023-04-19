@@ -44,7 +44,7 @@ weight: 3
           <div style="align:left;" class="card-body">
           <small>
             <h3 class="card-title mt-2">Apurba Technologies Ltd.</h3>
-            <h5 class="card-text" style="color: #007bff">Machine Learning Engineer, Computer Vision</h5>
+            <h5 class="card-text" style="color: #007bff">Machine Learning Consultant, Computer Vision</h5>
             <p class="card-text">
             <left_right>
             <span><i>Dhaka, Bangladesh</i></span>
