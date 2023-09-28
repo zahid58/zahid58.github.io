@@ -22,11 +22,11 @@ At the University of Saskatchewan, I am continuing research in the field of Comp
 </h7>
 <br/>
 <p class="text-center"> 
-{% include elements/button_nt.html link="https://cse.iutoic-dhaka.edu/profile/zahidulislam" text="IUT Profile" style="primary" %}
+{% include elements/button_nt.html link="https://zahid58.github.io/CV_Md_Zahidul_Islam_IUT.pdf" text="View My CV" style="primary" %}
 {% include elements/button_nt.html link="https://scholar.google.com/citations?user=jmjN3k8AAAAJ&hl=en" text="Google Scholar" style="primary" %}
 {% include elements/button_nt.html link="https://github.com/zahid58" text="GitHub" style="primary" %}
 {% include elements/button_nt.html link="https://www.linkedin.com/in/zahid58/" text="LinkedIn" style="primary" %}
-{% include elements/button_nt.html link="https://zahid58.github.io/CV_Md_Zahidul_Islam_IUT.pdf" text="View My CV" style="primary" %}
+{% include elements/button_nt.html link="https://cse.iutoic-dhaka.edu/profile/zahidulislam" text="IUT Profile" style="primary" %}
 </p>
 <br/>
 <h3 align="left"><b>Professional Skills</b></h3>
