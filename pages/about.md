@@ -13,11 +13,10 @@ weight: 3
 </p>
 <hr/>
 <h7 align="justify">
-As cliché as it may sound, I've been a technophile for as long as I can remember. I believe this fascination for science and technology has guided me throughout my journey to today. I am currently working as a Lecturer in the dept. of Computer Science and Engineering (CSE) at Islamic University of Technology (IUT). Previously, I worked as a Machine Learning Engineer at Apurba Technologies Ltd where I worked on Bangla OCR systems. I have graduated first-class (honours) with a B.Sc. in CSE in March 2021 from the CSE dept. at IUT.
+As cliché as it may sound, I've been a technophile for as long as I can remember. I believe this fascination for science and technology has guided me throughout my journey to today. I am currently a MSc student at the University of Saskatchewan. I am funded through working as a Teaching/Research Assistant and will be conducting research in the field of Computer Vision and Deep Learning under the supervision of Dr. Mrigank Rochan.  Previously, I served as a Lecturer in the dept. of Computer Science and Engineering at Islamic University of Technology (IUT).  I also worked as a Machine Learning Engineer at Apurba Technologies Ltd where I worked on Bangla OCR systems. 
 <br/><br/>
-My primary research field is Computer Vision, Machine Learning and their real-life applications. I am interested to develop intelligent and interpretable systems for visual understanding that are effective across various domains in the real-world and can recognize human appearance, behaviors, attributes and interactions in an interpretable manner. My final year undergraduate thesis was on "Efficient Violence Detection from Surveillance Footage" (Published in IJCNN 2021). 
-<br/><br/>
-Currently, I am continuing research in this field with IUT Computer Vision Lab (IUT CV Lab). I like to develop small projects on Github as a hobby. In my spare time, I like to explore deep mysteries of the universe and history of humanity.
+My primary research field is Computer Vision, Deep Learning and their real-life applications. I am interested to develop robust and efficient algorithms for visual recognition and interpretation that are effective across various domains in the real-world and can understand human appearance, behaviors, and interactions in an interpretable manner. My final year BSc thesis was on "Efficient Violence Detection from Surveillance Footage" (Published in IJCNN 2021). Currently, I am continuing research in this field at USask.
+<br/>
 </h7>
 <br/>
 <p class="text-center"> 
