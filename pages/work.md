@@ -15,7 +15,7 @@ weight: 3
           <div style="align:left;" class="card-body">
           <small>
             <h3 class="card-title mt-2">University of Saskatchewan (USask)</h3>
-            <h5 class="card-text" style="color: #007bff">Graduate Teaching Assistant, Dept. of Computer Science and Engineering</h5>
+            <h5 class="card-text" style="color: #007bff">Graduate Teaching Assistant, Dept. of Computer Science/h5>
             <p class="card-text">
             <left_right>
             <span><i>Saskatoon, Canada</i></span>
