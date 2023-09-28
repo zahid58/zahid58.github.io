@@ -15,7 +15,9 @@ weight: 3
 <h7 align="justify">
 As cliché as it may sound, I've been a technophile for as long as I can remember. I believe this fascination for science and technology has guided me throughout my journey to today. I am currently a MSc student at the University of Saskatchewan. I am funded through working as a Teaching/Research Assistant and will be conducting research in the field of Computer Vision and Deep Learning under the supervision of Dr. Mrigank Rochan.  Previously, I served as a Lecturer in the dept. of Computer Science and Engineering at Islamic University of Technology (IUT).  I also worked as a Machine Learning Engineer at Apurba Technologies Ltd where I worked on Bangla OCR systems. 
 <br/><br/>
-My primary research field is Computer Vision, Deep Learning and their real-life applications. I am interested to develop robust and efficient algorithms for visual recognition and interpretation that are effective across various domains in the real-world and can understand human appearance, behaviors, and interactions in an interpretable manner. My final year BSc thesis was on "Efficient Violence Detection from Surveillance Footage" (Published in IJCNN 2021). Currently, I am continuing research in this field at USask.
+My primary research field is Computer Vision, Deep Learning and their real-life applications. I am interested to develop robust and efficient algorithms for visual recognition and interpretation that are effective across various domains in the real-world and can understand human appearance, behaviors, and interactions in an interpretable manner. My final year BSc thesis was on "Efficient Violence Detection from Surveillance Footage" (Published in IJCNN 2021). 
+<br/><br/>
+At the University of Saskatchewan, I am continuing research in the field of Computer Vision.
 <br/>
 </h7>
 <br/>
