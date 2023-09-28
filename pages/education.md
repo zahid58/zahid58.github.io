@@ -10,6 +10,32 @@ weight: 3
   <div class="card mb-11">
       <div class="row">
         <div class="col-md-4">
+        <img src="https://zahid58.github.io/images/work/usask.png" class="card-img" alt="USask logo">
+        </div>
+        <div class="col-md-8">
+          <div style="align:left;" class="card-body">
+          <small>
+            <h3 class="card-title mt-2">University of Saskatchewan (USask)</h3>
+            <h5 class="card-text" style="color: #007bff">M.Sc., Dept. of CS</h5>
+            <p class="card-text">
+            <left_right>
+            <span><i>Saskatoon, Canada</i></span>
+            <span><i>Sept 2023 - Present</i></span>
+            </left_right>
+                <ul>
+                    <li><b>Supervisor</b> - Dr. Mrigank Rochan</li>
+                </ul>    
+            </p>
+            <p class="text-center"> {% include elements/button_nt.html link="https://www.cs.usask.ca/" text="Dept of CS, USask" %}</p>
+          </small>
+          </div>
+        </div>
+      </div>
+  </div>
+
+  <div class="card mb-11">
+      <div class="row">
+        <div class="col-md-4">
         <img src="https://zahid58.github.io/images/work/IUT.png" class="card-img" alt="IUT logo">
         </div>
         <div class="col-md-8">
