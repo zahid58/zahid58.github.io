@@ -6,24 +6,23 @@ weight: 4
 ---
 <div class="card-decks">
 
-
-  <div class="card mb-11">
+<div class="card mb-11">
       <div class="row">
         <div class="col-md-4">
-        <img src="https://zahid58.github.io/images/work/usask.png" width="200" class="card-img" alt="IUT logo">
+        <img src="https://zahid58.github.io/images/work/usask.png" width="200" class="card-img" alt="usask logo">
         </div>
         <div class="col-md-8">
           <div style="align:left;" class="card-body">
           <small>
-            <h3 class="card-title mt-2">University of Saskatchewan (USask)</h3>
-            <h5 class="card-text" style="color: #007bff">Graduate Teaching Assistant, Dept. of Computer Science/h5>
+            <h3 class="card-title mt-2">University of Saskatchewan</h3>
+            <h5 class="card-text" style="color: #007bff">Graduate Teaching Assistant</h5>
             <p class="card-text">
             <left_right>
             <span><i>Saskatoon, Canada</i></span>
             <span><i>September 2023 - Present</i></span>
             </left_right>
                 <ul>
-                    <li><b>Responsibilities</b> - Assisting the Course Instructor in Preparing Course Materials, Grading Assignments and Exam Scripts, and Helping Students.</li>
+		    <li><b>Responsibilities</b> - Assisting the Course Instructor in Preparing Course Materials, Grading Assignments and Exam Scripts, and Helping Students.</li>
                     <li><b>Courses</b> - Introduction to Computer Science</li>
                 </ul>    
             </p>
@@ -33,11 +32,11 @@ weight: 4
           </div>
         </div>
       </div>
-  </div>
+  </div>  
 
 
 
-  
+
   <div class="card mb-11">
       <div class="row">
         <div class="col-md-4">
