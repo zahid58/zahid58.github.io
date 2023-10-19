@@ -5,36 +5,7 @@ permalink: /work/
 weight: 3
 ---
 <div class="card-decks">
-
-  <div class="card mb-11">
-      <div class="row">
-        <div class="col-md-4">
-        <img src="https://zahid58.github.io/images/work/usask.png" width="200" class="card-img" alt="IUT logo">
-        </div>
-        <div class="col-md-8">
-          <div style="align:left;" class="card-body">
-          <small>
-            <h3 class="card-title mt-2">University of Saskatchewan (USask)</h3>
-            <h5 class="card-text" style="color: #007bff">Graduate Teaching Assistant, Dept. of Computer Science/h5>
-            <p class="card-text">
-            <left_right>
-            <span><i>Saskatoon, Canada</i></span>
-            <span><i>September 2023 - Present</i></span>
-            </left_right>
-                <ul>
-                    <li><b>Responsibilities</b> - Assisting the Course Instructor in Preparing Course Materials, Grading Assignments and Exam Scripts, and Helping Students.</li>
-                    <li><b>Courses</b> - Introduction to Computer Science</li>
-                </ul>    
-            </p>
-            <p class="text-center"> {% include elements/button_nt.html link="https://www.usask.ca/" text="USask Website" %}
-            {% include elements/button_nt.html link="https://www.cs.usask.ca/" text="Dept. of CS" %} </p>
-          </small>
-          </div>
-        </div>
-      </div>
-  </div>
-
-
+  
   <div class="card mb-11">
       <div class="row">
         <div class="col-md-4">
