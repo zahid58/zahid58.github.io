@@ -9,7 +9,7 @@ weight: 3
 <h2>Hi , I'm <b>Zahid</b> 👋</h2>
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines= MMSc+Student,+Dept.+of+CS,+ University+of+Saskatchewan&center=true&width=600&height=50">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=MSc+student%2C+Dept.+of+CS%2C+University+of+Saskatchewan" alt="Typing SVG" /></a>
 </p>
 <hr/>
 <h7 align="justify">
