@@ -19,7 +19,7 @@ Currently, I am working on Video Interpretation using Deep Learning under the su
 <br/><br/>
 I am experienced in teaching several undergrad CS courses such as Algorithms, Data Structures, Structured Programming, and Digital Signal Processing while serving as a Lecturer for the CSE dept. at IUT which is a subsidiary organ of OIC and a leading engineering university in Bangladesh. 
 <br/><br/>
-I was actively involved in building large-scale Bengali OCR systems for multiple govt. and private clients while working as an ML Engineer at Apurba Technologies Ltd.
+I was actively involved in building large-scale Bengali OCR systems for multiple govt. and commercial clients while working as an ML Engineer at Apurba Technologies Ltd.
 <br/><br/>
 My BSc thesis work on "Efficient Violence Detection from Surveillance Footage" was published in IJCNN 2021 and have gained about 40 citations so far.
 <br/><br/>
