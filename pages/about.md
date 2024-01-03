@@ -12,7 +12,7 @@ weight: 3
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5067&pause=1000&random=false&width=435&lines=MSc+student%2C+Dept.+of+CS%2C+USask" alt="Typing SVG" /></a>
 </p>
 <hr/>
-<h7 align="justify">
+<h7 align="left">
 I am a passionate technophile with both academic and industrial experience in solving real-life problems using Computer Vision and Deep Learning. With years of practice and study, I have gained a solid foundation of programming, data structures and algorithms, allowing me to swiftly implement efficient software systems. 
 <br/><br/>
 Currently, I am working on Video Interpretation using Deep Learning under the supervision of Dr. Mrigank Rochan as an MSc student at the University of Saskatchewan. I am also working as a Graduate Teaching Assistant for the CS dept.
