@@ -9,7 +9,7 @@ weight: 3
 <h2>Hi , I'm <b>Zahid</b> 👋</h2>
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=MSc+Student,+Dept.+of+CS,+ University+of+Saskatchewan&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines= MSc+Student,+Dept.+of+CS,+ University+of+Saskatchewan&center=true&width=600&height=50">
 </p>
 <hr/>
 <h7 align="justify">
