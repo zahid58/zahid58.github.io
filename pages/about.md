@@ -13,11 +13,18 @@ weight: 3
 </p>
 <hr/>
 <h7 align="justify">
-As cliché as it may sound, I've been a technophile for as long as I can remember. I believe this fascination for science and technology has guided me throughout my journey to today. I am currently a MSc student at the University of Saskatchewan. I am funded through working as a Teaching/Research Assistant and will be conducting research in the field of Computer Vision and Deep Learning under the supervision of Dr. Mrigank Rochan.  Previously, I served as a Lecturer in the dept. of Computer Science and Engineering at Islamic University of Technology (IUT).  I also worked as a Machine Learning Engineer at Apurba Technologies Ltd where I worked on Bangla OCR systems. 
+I am a passionate technophile with both academic and industrial experience in solving real-life problems using Computer Vision and Deep Learning. With years of practice and study, I have gained a solid foundation of programming, data structures and algorithms, allowing me to swiftly implement efficient software systems. 
 <br/><br/>
-My primary research field is Computer Vision, Deep Learning and their real-life applications. I am interested to develop robust and efficient algorithms for visual recognition and interpretation that are effective across various domains in the real-world and can understand human appearance, behaviors, and interactions in an interpretable manner. My final year BSc thesis was on "Efficient Violence Detection from Surveillance Footage" (Published in IJCNN 2021). 
+Currently, I am working on Video Interpretation using Deep Learning under the supervision of Dr. Mrigank Rochan as an MSc student at the University of Saskatchewan. I am also working as a Graduate Teaching Assistant for the CS dept.
 <br/><br/>
-At the University of Saskatchewan, I am continuing research in the field of Computer Vision.
+I am experienced in teaching several undergrad CS courses such as Algorithms, Data Structures, Structured Programming, and Digital Signal Processing while serving as a Lecturer for the CSE dept. at IUT which is a subsidiary organ of OIC and a leading engineering university in Bangladesh. 
+<br/><br/>
+I was actively involved in building a large-scale Bangla OCR system while working as an ML Engineer at Apurba Technologies Ltd.
+<br/><br/>
+My BSc thesis work on "Efficient Violence Detection from Surveillance Footage" was published in IJCNN 2021 and have gained about 40 citations so far.
+<br/><br/>
+I aim to be an impactful engineer and develop robust and efficient systems for solving real-world problems.
+<br/><br/>
 <br/>
 </h7>
 <br/>
