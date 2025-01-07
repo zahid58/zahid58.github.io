@@ -6,10 +6,10 @@ weight: 3
 ---
 
 <div align="center">
-<h2>Hi , I'm <b>Zahid</b> (Zed) 👋</h2>
+<h2>Hi , I'm <b>Zahid!</b>👋</h2>
 </div>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5067&pause=1000&random=false&width=435&lines=MSc+student%2C+Dept.+of+CS%2C+USask" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5067&pause=1000&random=false&width=435&lines=Graduate+student%2C+in+CS%2C+Specializing+in+AI" alt="Typing SVG" /></a>
 </p>
 <hr/>
 <h7 align="left">
