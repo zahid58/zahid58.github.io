@@ -30,7 +30,7 @@ I aim to be an impactful engineer and develop robust and efficient systems for s
 {% include elements/button_nt.html link="https://scholar.google.com/citations?user=jmjN3k8AAAAJ&hl=en" text="Google Scholar" style="primary" %}
 {% include elements/button_nt.html link="https://www.linkedin.com/in/zahid58/" text="LinkedIn" style="primary" %}
 {% include elements/button_nt.html link="https://github.com/zahid58" text="GitHub" style="primary" %}
-<!-- {% include elements/button_nt.html link="https://cse.iutoic-dhaka.edu/profile/zahidulislam" text="IUT Profile" style="primary" %} -->
+
 </p>
 <br/>
 <h3 align="left"><b>Professional Skills</b></h3>
@@ -40,12 +40,7 @@ I aim to be an impactful engineer and develop robust and efficient systems for s
   <li><b>Deep Learning and Machine Learning</b> - Tensorflow, PyTorch, Scikit-learn</li>
   <li><b>Image Processing</b> - OpenCV, MATLAB</li>
   <li><b>Web</b> - HTML, CSS, JS (frontend)</li>
-  <li><b>OS</b> - UNIX shell scripting, x86Assembly</li>
-</ul>
-
-<br/>
-
-<!-- <p class="text-center"> {% include elements/button_nt.html link="https://zahid58.github.io/CV_Md_Zahidul_Islam_IUT.pdf" text="View CV" style="primary" %} </p> -->
+  <li><b>OS</b> - UNIX shell scripting, x86Assembly </li> 
 
 <br/>
 <br/>
