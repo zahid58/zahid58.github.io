@@ -22,7 +22,6 @@ My undergraduate research work at IUT on “Violent Activity Recognition” was 
 While serving as a Lecturer for the CSE dept. at IUT which is a subsidiary organ of OIC and a leading engineering university in Bangladesh, I have taught several undergrad CS courses such as Structured Programming and Digital Signal Processing. I was actively involved in building large-scale Bengali OCR systems for govt. and commercial clients, while working as an ML Engineer at Apurba Technologies Ltd.
 <br/><br/>
 I aim to be an impactful engineer and develop robust and efficient systems for solving real-world problems.
-<br/><br/>
 <br/>
 </h7>
 <br/>
