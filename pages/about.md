@@ -46,7 +46,7 @@ USask Email: <a href= "mailto: eqm971@usask.ca">eqm971@usask.ca</a>
   <li><b>Deep Learning and Machine Learning</b> - Tensorflow, PyTorch, Scikit-learn</li>
   <li><b>Image Processing</b> - OpenCV, MATLAB</li>
   <li><b>Web</b> - HTML, CSS, JS (frontend)</li>
-  <li><b>OS</b> - UNIX shell scripting, x86Assembly </li> 
+  <li><b>OS</b> - UNIX shell scripting, x86 Assembly </li> 
 
 <br/>
 <br/>
