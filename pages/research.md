@@ -8,8 +8,9 @@ weight: 3
 <h2><b>Research</b> Experience</h2>
 </div>
 <hr/>
-<h7 style="text-align: justify;">My primary research field is Computer Vision, Deep Learning and their real-life applications. Despite latest breakthroughs in deep learning, computer vision algorithms still faces a lot of challenges. Numerous variations in real-world data makes it difficult for model to generalize accross diverse domains. Deploying computationally expensive in low-cost resource-constrained is another big challenge. I am interested in coming up with effective solutions to tackle these challenges by developing more robust and efficient systems for computer vision tasks.<br/>
-I am also interested in vision and AI algorithms that can improve safety and security in society. One way to do that is to explore how machines can better recognize and understand human appearance, behaviors, attributes and interactions in an interpretable manner. Specifically, I am interested to work on image and video recognition, biometrics, and action recognition. My final year undergraduate thesis was on "Efficient Violence Detection from Surveillance Footage" (Published in IJCNN 2021). Currently, at the University of Saskatchewan, I am continuing in the field of Computer Vision as an M.Sc. student under the supervision of Dr. Mrigank Rochan.</h7>
+<h7><b>Research Interests:</b>Multimodal Deep Learning, Computer Vision, NLP.</h7>
+<br/>
+<h7 style="text-align: justify;">As an MSc student at the University of Saskatchewan (USask), I am currently conducting research in Computer Vision and Deep Learning with Dr. Mrigank Rochan. Our research works have been accepted to be presented at reputed venues such as IEEE WACV 2025, and NeurIPS 2024 Workshop on Self-Supervised Learning. My undergrad research work on “Violent Activity Recognition” was published at IJCNN 2021 and has gained over 77 citations so far. In addition to my academic experiences, I have also gained exposure at the industry while working as a Machine Learning Engineer at Apurba Technologies. I contributed to developing a large-scale Bengali OCR system for text recognition. Additionally, developing various academic and personal projects related to computer graphics, computer vision, and machine learning have further enriched my technical expertise. </h7>
 <br/>
 <br/>
 
