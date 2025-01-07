@@ -23,7 +23,7 @@ weight: 3
             <span><i>Sept 2023 - Present</i></span>
             </left_right>
                 <ul>
-                    <li><b>Supervisor</b> - Dr. Mrigank Rochan</li>
+                    <li>Conducting research in the domain of Computer Vision and Deep Learning under the supervision of Dr. Mrigank Rochan with a focus on developing intelligent systems for video understanding.</li>
                 </ul>    
             </p>
             <p class="text-center"> {% include elements/button_nt.html link="https://www.cs.usask.ca/" text="Dept of CS, USask" %}</p>
@@ -52,6 +52,10 @@ weight: 3
                     <li><b>CGPA - 3.99</b>/4.00 <i>(Ranked <b>1st</b> in class of 86)</i></li>
                     <li><b>Thesis</b> - Efficient Two-Stream Network for Violence Detection Using Separable Convolutional LSTM</li>
                     <li><b>Supervisor</b> - Dr. Md. Hasanul Kabir</li>
+                   <li>Completed 181.75 credits towards Bachelor of Science in Computer Science and Engineering.</li>
+                   <li>Coursework - Digital Image Processing, Machine Learning, Pattern Recognition, Artificial Intelligence, Numerical Methods, Mathematical Analysis, Operating System, Theory of Computing, Computer Networks, Database Management System, Algorithms, Data Structure, Object Oriented Programming, Structured Programming, etc.</li>
+ <li>Co-curriculars: Competitive Programming, Robotics Contests such Line Follower Race, European Rover Challenge, Matlab Programming Contests.</li>
+ <li>Societies: IUT Computer Society, IEEE IUT Robotics and Automation Society</li>
                 </ul>    
             </p>
             <p class="text-center"> {% include elements/button_nt.html link="https://www.iutoic-dhaka.edu/" text="IUT Website" %}</p>
