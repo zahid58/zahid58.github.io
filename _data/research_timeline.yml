@@ -2,7 +2,7 @@
   authors: Zahidul Islam (USask), Sujoy Paul (Google Research), Mrigank Rochan (USask)
   jorc: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025, Tucson, Arizona
   date: Feb 2025
-  abstract: We present an unsupervised method for video highlight detection capitalizing on repeating patterns in audio and visual modalities of similar videos.
+  abstract: Existing methods typically rely either on expensive manually labeled frame-level annotations, or on a large external dataset of videos for weak supervision through category information. To overcome this, we focus on unsupervised video highlight detection, eliminating the need for manual annotations. We propose an innovative unsupervised approach which capitalizes on the premise that significant moments tend to recur across multiple videos of the similar category in both audio and visual modalities. Surprisingly, audio remains under-explored, especially in unsupervised algorithms, despite its potential to detect key moments. Through a clustering technique, we identify pseudo-categories of videos and compute audio pseudo-highlight scores for each video by measuring the similarities of audio features among audio clips of all the videos within each pseudo-category. Similarly, we also compute visual pseudo-highlight scores for each video using visual features. Subsequently, we combine audio and visual pseudo-highlights to create the audio-visual pseudo ground-truth highlight of each video for training an audio-visual highlight detection network. Extensive experiments and ablation studies on three highlight detection benchmarks showcase the superior performance of our method over prior work.
   link: https://arxiv.org/abs/2407.13933
   linkname: Paper
 
@@ -10,7 +10,7 @@
   authors: Zahidul Islam (USask), Sujoy Paul (Google Research), Mrigank Rochan (USask)
   jorc: Neural Information Processing Systems (NeurIPS) 2024 Workshop Self-Supervised Learning - Theory and Practice.
   date: Dec 2024
-  abstract: We present a meta-learning-based test-time adaptation approach for video highlight detection to handle distribution shifts at test-time. 
+  abstract: Existing video highlight detection methods often struggle to generalize due to varying content, styles, and audio-visual quality in unseen test videos. We propose Highlight-TTA, a test-time adaptation framework for video highlight detection that addresses this limitation by dynamically adapting the model during inference to better align with the specific characteristics of each test video, thereby improving its generalization and highlight detection performance. Highlight-TTA is jointly optimized during training using a self-supervised auxiliary task, cross-modality hallucinations, alongside the primary task of highlight detection within a meta-auxiliary training scheme to enable effective adaptation. During testing, we adapt the trained model using the self-supervised auxiliary task on the test video to enhance its highlight detection performance. Extensive experiments on three benchmark datasets demonstrate the effectiveness of Highlight-TTA.
   link: https://openreview.net/forum?id=nzqmLjzaNt
   linkname: Link
 
