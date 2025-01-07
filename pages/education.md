@@ -23,7 +23,9 @@ weight: 3
             <span><i>Sept 2023 - Present</i></span>
             </left_right>
                 <ul>
+                  <li>Achieved Geddes Graduate Scholarship Award in Computer Science in recognition of academic and research excellence worth $2500 in the year 2024-2025.</li>
                     <li>Conducting research in the domain of Computer Vision and Deep Learning under the supervision of Dr. Mrigank Rochan with a focus on developing intelligent systems for video understanding.</li>
+                  <li>Course grades: 90%</li>
                 </ul>    
             </p>
             <p class="text-center"> {% include elements/button_nt.html link="https://www.cs.usask.ca/" text="Dept of CS, USask" %}</p>
