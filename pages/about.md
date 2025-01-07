@@ -35,7 +35,8 @@ I aim to be an impactful engineer and develop robust and efficient systems for s
 <br/>
 <h3 align="left"><b>Professional Skills</b></h3>
 <ul>
-  <li><b>Languages</b> - Python, Java, C++, C, SQL</li>
+  <li><b>Programming Languages</b> - Python, Java, C++, C, SQL</li>
+  <li>Proficient in Programming and Problem-solving. 500+ solves in platforms such as LeetCode and Codeforces.
   <li><b>Deep Learning and Machine Learning</b> - Tensorflow, PyTorch, Scikit-learn</li>
   <li><b>Image Processing</b> - OpenCV, MATLAB</li>
   <li><b>Web</b> - HTML, CSS, JS (frontend)</li>
