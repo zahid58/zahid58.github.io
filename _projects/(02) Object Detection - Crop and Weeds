@@ -1,7 +1,7 @@
 ---
 name: CropsDetector - Object Detection using YOLO
 tools: [Python, PyTorch]
-image: https://zahid58.github.io/images/projects/cropsdetector.jpg
+image: https://zahid58.github.io/images/projects/cropsdetector.jpeg
 description: Object Detection for Crops and Weeds Identification from Agricultural Images Using YOLO.
 external_url: https://zahid58.github.io/projects
 ---
