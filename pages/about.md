@@ -24,7 +24,7 @@ While serving as a Lecturer for the CSE dept. at IUT which is a subsidiary organ
 I aim to be an impactful engineer and develop robust and efficient systems for solving real-world problems.
 <br/>
 <br/>
-Personal Email: zahidislam1558@gmail.com<br/>
+Personal Email: [zahidislam1558@gmail.com](mailto:zahidislam1558@gmail.com)<br/>
 USask Email: eqm971@usask.ca
 <br/>
 <br/>
