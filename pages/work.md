@@ -23,7 +23,7 @@ weight: 4
             </left_right>
                 <ul>
 		    <li><b>Responsibilities</b> - Assisting the Course Instructor in Preparing Course Materials, Grading Assignments and Exam Scripts, and Helping Students.</li>
-                    <li><b>Courses</b> - Introduction to Computer Science</li>
+                    <li><b>Courses</b> - Object Oriented Programming (Java), Introduction to Computer Science (Python)</li>
                 </ul>    
             </p>
             <p class="text-center"> {% include elements/button_nt.html link="https://www.usask.ca/" text="USask Website" %}
@@ -53,8 +53,9 @@ weight: 4
             <span><i>July 2021 - Present</i></span>
             </left_right>
                 <ul>
-                    <li><b>Courses Conducted</b> - Computing for Engineers</li>
-                    <li><b>Labs Conducted</b> - Data Structures, Microprocessor and Assembly Language, Engineering Drawing</li>
+                    <li><b>Theory Courses Conducted</b> - Computer Programming and Applications, Digital Signal Processing, Integral Calculus and Differential Equations, Computing for Engineers</li>
+			<li><b>Lab Courses Conducted</b> - Algorithm Engineering Lab, Digital Signal Processing Lab, Data Structures Lab, Microprocessor Lab</li>
+                    <li><b>Research</b> - At IUT Computer Vision Lab (CV Lab), I conduct research in the area of computer vision and its real life applications and guide undergraduate students in their thesis and projects.</li>
                 </ul>    
             </p>
             <p class="text-center"> {% include elements/button_nt.html link="https://www.iutoic-dhaka.edu/" text="IUT Website" %}
