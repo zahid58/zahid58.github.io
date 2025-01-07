@@ -1,9 +1,3 @@
-- title: Test-Time Adaptation for Video Highlight Detection
-  authors: Zahidul Islam (USask), Sujoy Paul (Google Research), Mrigank Rochan (USask)
-  jorc: Neural Information Processing Systems (NeurIPS) 2024 Workshop Self-Supervised Learning - Theory and Practice.
-  date: Dec 2024
-  abstract: We present a meta-learning-based test-time adaptation approach for video highlight detection to handle distribution shifts at test-time. 
-
 - title: Unsupervised Video Highlight Detection by Learning from Audio and Visual Recurrence
   authors: Zahidul Islam (USask), Sujoy Paul (Google Research), Mrigank Rochan (USask)
   jorc: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025, Tucson, Arizona
@@ -11,6 +5,14 @@
   abstract: We present an unsupervised method for video highlight detection capitalizing on repeating patterns in audio and visual modalities of similar videos.
   link: https://arxiv.org/abs/2407.13933
   linkname: Paper
+
+- title: Test-Time Adaptation for Video Highlight Detection
+  authors: Zahidul Islam (USask), Sujoy Paul (Google Research), Mrigank Rochan (USask)
+  jorc: Neural Information Processing Systems (NeurIPS) 2024 Workshop Self-Supervised Learning - Theory and Practice.
+  date: Dec 2024
+  abstract: We present a meta-learning-based test-time adaptation approach for video highlight detection to handle distribution shifts at test-time. 
+  link: https://openreview.net/forum?id=nzqmLjzaNt
+  linkname: Link
 
 - title: Efficient Two Stream Network for Violence Detection Using Separable Convolutional LSTM
   authors: Zahidul Islam, Mohammad Rukonuzzaman, Raiyan Ahmed, Md. Hasanul Kabir, Moshiur Farazi
