@@ -1,6 +1,6 @@
 - title: Test-Time Adaptation for Video Highlight Detection
   authors: Zahidul Islam (USask), Sujoy Paul (Google Research), Mrigank Rochan (USask)
-  jorc: Neural Information Processing Systems (NeurIPS) 2024 Workshop: Self-Supervised Learning - Theory and Practice.
+  jorc: Neural Information Processing Systems (NeurIPS) 2024 Workshop Self-Supervised Learning - Theory and Practice.
   date: Dec 2024
   abstract: We present a meta-learning-based test-time adaptation approach for video highlight detection to handle distribution shifts at test-time. 
 
