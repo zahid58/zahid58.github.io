@@ -9,9 +9,8 @@ weight: 3
 <h2>Hi , I'm <b>Zahid!</b>👋</h2>
 </div>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+Software+Developer+%40+Siemens" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+Software+Developer+%40+Siemens+EDA" alt="Typing SVG" /></a>
 </p>
-<hr/>
 <h7 align="left">
 A passionate technophile with both academic and industrial experience in solving real-life problems using AI and Machine Learning.
 <br/><br/>
