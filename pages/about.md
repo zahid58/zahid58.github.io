@@ -13,26 +13,26 @@ weight: 3
 </p>
 <hr/>
 <h7 align="left">
-A passionate technophile with both academic and industrial experience in solving real-life problems using AI and Machine Learning. With years of practice, I have a solid foundation of programming and algorithms, allowing me to swiftly implement efficient software systems. 
+A passionate technophile with both academic and industrial experience in solving real-life problems using AI and Machine Learning.
 <br/><br/>
-As an MSc student at the University of Saskatchewan (USask), I have completed my coursework with excellent grades and am currently conducting research under the guidance of Dr. Mrigank Rochan. Our works on “Video Highlight Detection” reputed venues such as WACV 2025 and NeurIPS 2025 Workshop.
+As an AI Software Developer at Siemens EDA, I build generative and agentic AI systems to modernize chip and PCB design. I am currently part of the AI team developing Fuse EDA AI Agent from the ground up, while also working on collaborative project on model training and fine-tuning with NVIDIA. My work revolves around applying cutting-edge industry tech to real-world problems, from Multimodal LLMs and RAG to agentic workflows.
 <br/><br/>
-My undergraduate research work at IUT on “Violent Activity Recognition” was published at IJCNN 2021 and has gained over 77 citations so far.
+Before joining Siemens, I completed my M.Sc. in Computer Science at the University of Saskatchewan (USask) obtained the prestigous Geddes Graduate Scholarship- 2024-25, which is awarded annually recognizing academic and research excellence amongst graduate students. My academic research during my masters and undergrad was focused on Multimodal LLMs, AI, and computer vision, produced papers at top-tier venues including EMNLP 2025, WACV 2025, and NeurIPS 2025 workshops. Now, I am focused on bringing complex machine learning research into applied engineering to build robust, highly efficient AI systems for the industry.
 <br/><br/>
 While serving as a Lecturer for the CSE dept. at IUT which is a subsidiary organ of OIC and a leading engineering university in Bangladesh, I have taught several undergrad CS courses such as Structured Programming and Digital Signal Processing. I was actively involved in building large-scale Bengali OCR systems for govt. and commercial clients, while working as an ML Engineer at Apurba Technologies Ltd.
 <br/><br/>
-I aim to be an impactful engineer and develop robust and efficient systems for solving real-world problems.
+My overarching goal is to be an impactful pioneer or leader in the tech industry and develop innovative and robust solutions for solving real-world problems.
 <br/>
 <br/>
 Personal Email: <a href= "mailto: zahidislam1558@gmail.com">zahidislam1558@gmail.com</a>
 <br/>
-USask Email: <a href= "mailto: eqm971@usask.ca">eqm971@usask.ca</a>
+Siemens Email: <a href= "mailto: md-zahidul.islam@siemens.com">md-zahidul.islam@siemens.com</a>
 <br/>
 <br/>
 </h7>
 <br/>
 <p class="text-center"> 
-{% include elements/button_nt.html link="https://zahid58.github.io/CV_Zahid_Islam_Feb5.pdf" text="Resume / CV" style="primary" %}
+{% include elements/button_nt.html link="https://zahid58.github.io/CV_Zahid_Islam_Oct9.pdf" text="Resume / CV" style="primary" %}
 {% include elements/button_nt.html link="https://scholar.google.com/citations?user=jmjN3k8AAAAJ&hl=en" text="Google Scholar" style="primary" %}
 {% include elements/button_nt.html link="https://www.linkedin.com/in/zahid58/" text="LinkedIn" style="primary" %}
 {% include elements/button_nt.html link="https://github.com/zahid58" text="GitHub" style="primary" %}
@@ -41,13 +41,9 @@ USask Email: <a href= "mailto: eqm971@usask.ca">eqm971@usask.ca</a>
 <br/>
 <h3 align="left"><b>Professional Skills</b></h3>
 <ul>
-  <li><b>Programming Languages</b> - Python, Java, C++, C, SQL</li>
-  <li>Proficient in Programming and Problem-solving. 500+ solves in platforms such as LeetCode and Codeforces.
-  <li><b>Deep Learning and Machine Learning</b> - Tensorflow, PyTorch, Scikit-learn</li>
-  <li><b>Image Processing</b> - OpenCV, MATLAB</li>
-  <li><b>Web</b> - HTML, CSS, JS (frontend)</li>
-  <li><b>OS</b> - UNIX shell scripting, x86 Assembly </li> 
-
+  <li><b>Programming Languages</b> - Python, C++, Javascript</li>
+  <li>Proficient in programming and highly experience in problem-solving in platforms such as LeetCode and Codeforces.
+  <li><b>AI, Deep Learning, Machine Learning</b> - PyTorch, Tensorflow, Scikit-learn, OpenCV</li>
 <br/>
 <br/>
 
