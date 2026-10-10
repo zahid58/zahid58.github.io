@@ -1,9 +1,9 @@
 ### Site Settings ###
 title               : Zahid Islam
 description         : >-
-                      Graduate Student in Computer Science
+                      AI Software Engineer @ Siemens 
                       
-                      Specializing in AI and Machine Learning
+                      With expertise in LLMs, Multimodal AI, Computer Vision
                       
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : zahid58/zahid58.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
@@ -34,7 +34,7 @@ author:
   github            : zahid58
   linkedin          : zahid58
 # gitlab            : your_username
-# instagram         : your_username
+  instagram         : zahid__58
 # kaggle            : your_username
   facebook          : Zahid1558
   # medium            : your_username
@@ -67,14 +67,14 @@ collections:
 
 ### Disqus ###
 disqus:
-  shortname: your-short-name-disqus                     # Your website Shortname on disqus
+  shortname: zahid58                    # Your website Shortname on disqus
 
 
 ### Analytics ###
 analytics:
   enabled: false                                        # Set true to enable analytics
   google:
-    tracking_id: your-google-tracking-id
+    tracking_id: zahid58
 
 
 ### Defaults for collections ###
