@@ -6,6 +6,39 @@ weight: 4
 ---
 <div class="card-decks">
 
+
+<div class="card mb-11">
+      <div class="row">
+        <div class="col-md-4">
+        <img src="https://zahid58.github.io/images/work/siemens.png" width="200" class="card-img" alt="usask logo">
+        </div>
+        <div class="col-md-8">
+          <div style="align:left;" class="card-body">
+          <small>
+            <h3 class="card-title mt-2">Siemens EDA</h3>
+            <h5 class="card-text" style="color: #007bff">AI Software Developer</h5>
+            <p class="card-text">
+            <left_right>
+            <span><i>Saskatoon, Canada</i></span>
+            <span><i>July 2025 - Present</i></span>
+            </left_right>
+                <ul>
+		            <li>At Siemens EDA as a Software Developer - AI, I am working on developing EDA AI, a comprehensive EDA solution that harnesses LLMs and Multimodal LLMs to enable generative and agentic AI capabilities for chip and PCB design.</li>
+                    <li>Actively developing Fuse EDA AI Agent 🎉 our powerful AI solution for automated, agentic chip design built right here from the ground up at Siemens EDA (Siemens Digital Industries Software).</li>
+					<li>Contributing to cutting-edge industry-grade AI technologies- from Multimodal (language + vision) RAG and LLMs to agentic systems powered with MCP, along with In Situ Model training and fine-tuning. 🚀</li>
+					<li>Collaborating with NVIDIA to apply and customize (finetune) Nemotron models for EDA agentic workflows.</li>
+                </ul>    
+            </p>
+            <p class="text-center"> {% include elements/button_nt.html link="https://www.usask.ca/" text="USask Website" %}
+            {% include elements/button_nt.html link="https://www.cs.usask.ca/" text="Dept. of CS" %} </p>
+          </small>
+          </div>
+        </div>
+      </div>
+  </div>  
+
+
+
 <div class="card mb-11">
       <div class="row">
         <div class="col-md-4">
@@ -19,7 +52,7 @@ weight: 4
             <p class="card-text">
             <left_right>
             <span><i>Saskatoon, Canada</i></span>
-            <span><i>September 2023 - Present</i></span>
+            <span><i>September 2023 - June 2025</i></span>
             </left_right>
                 <ul>
 		    <li><b>Responsibilities</b> - Assisting the Course Instructor in Preparing Course Materials, Grading Assignments and Exam Scripts, and Helping Students.</li>
