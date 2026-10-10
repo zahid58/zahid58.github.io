@@ -20,11 +20,11 @@ weight: 3
             <p class="card-text">
             <left_right>
             <span><i>Saskatoon, Canada</i></span>
-            <span><i>Sept 2023 - Present</i></span>
+            <span><i>Sept 2023 - June 2025</i></span>
             </left_right>
                 <ul>
-                  <li>Achieved Geddes Graduate Scholarship Award in Computer Science in recognition of academic and research excellence worth $2500 in the year 2024-2025.</li>
-                    <li>Conducting research in the domain of Computer Vision and Deep Learning under the supervision of Dr. Mrigank Rochan with a focus on developing intelligent systems for video understanding.</li>
+                  <li>Achieved Geddes Graduate Scholarship Award in Computer Science in recognition of academic and research excellence the year 2024-2025.</li>
+                    <li>My academic research focused on AI and computer vision, with papers at top-tier venues including EMNLP 2025, WACV 2025, and NeurIPS 2025 workshops.
                   <li>Course grades: 90%</li>
                 </ul>    
             </p>
