@@ -24,7 +24,7 @@ weight: 3
             </left_right>
                 <ul>
                   <li>Achieved Geddes Graduate Scholarship Award in Computer Science in recognition of academic and research excellence the year 2024-2025.</li>
-                    <li>My academic research focused on AI and computer vision, with papers at top-tier venues including EMNLP 2025, WACV 2025, and NeurIPS 2025 workshops.
+                  <li>My academic research focused on AI and computer vision, with papers at top-tier venues including EMNLP 2025, WACV 2025, and NeurIPS 2025 workshops.</li>
                   <li>Course grades: 90%</li>
                 </ul>    
             </p>
@@ -56,8 +56,8 @@ weight: 3
                     <li><b>Supervisor</b> - Dr. Md. Hasanul Kabir</li>
                    <li>Completed 181.75 credits towards Bachelor of Science in Computer Science and Engineering.</li>
                    <li>Coursework - Digital Image Processing, Machine Learning, Pattern Recognition, Artificial Intelligence, Numerical Methods, Mathematical Analysis, Operating System, Theory of Computing, Computer Networks, Database Management System, Algorithms, Data Structure, Object Oriented Programming, Structured Programming, etc.</li>
- <li>Co-curriculars: Competitive Programming, Robotics Contests such Line Follower Race, European Rover Challenge, Matlab Programming Contests.</li>
- <li>Societies: IUT Computer Society, IEEE IUT Robotics and Automation Society</li>
+                   <li>Co-curriculars: Competitive Programming, Robotics Contests such Line Follower Race, European Rover Challenge, Matlab Programming Contests.</li>
+                   <li>Societies: IUT Computer Society, IEEE IUT Robotics and Automation Society</li>
                 </ul>    
             </p>
             <p class="text-center"> {% include elements/button_nt.html link="https://www.iutoic-dhaka.edu/" text="IUT Website" %}</p>
@@ -79,7 +79,7 @@ weight: 3
             <!-- <h5 class="card-text" style="color: #007bff">Machine Learning Engineer, Computer Vision</h5> -->
             <p class="card-text">
             <left_right>
-            <span><i>Dhaka, Bangladesh</i></span>
+            <span><i>Cumilla, Bangladesh</i></span>
             <span><i>March 2010 - March 2016</i></span>
             </left_right>
                 <ul>
