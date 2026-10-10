@@ -35,7 +35,6 @@ Siemens Email: <a href= "mailto: md-zahidul.islam@siemens.com">md-zahidul.islam@
 {% include elements/button_nt.html link="https://scholar.google.com/citations?user=jmjN3k8AAAAJ&hl=en" text="Google Scholar" style="primary" %}
 {% include elements/button_nt.html link="https://www.linkedin.com/in/zahid58/" text="LinkedIn" style="primary" %}
 {% include elements/button_nt.html link="https://github.com/zahid58" text="GitHub" style="primary" %}
-
 </p>
 <br/>
 <h3 align="left"><b>Professional Skills</b></h3>
