@@ -8,9 +8,9 @@ weight: 3
 <h2><b>Research</b> Experience</h2>
 </div>
 <hr/>
-<h7><b>Research Interests : </b>Multimodal Deep Learning, Computer Vision, NLP.</h7>
+<h7><b>Research Interests : </b>Multimodal LLMs, AI, Deep Learning, Computer Vision</h7>
 <br/>
-<h7 style="text-align: justify;">As an MSc student at the University of Saskatchewan (USask), I am currently conducting research in Computer Vision and Deep Learning with Dr. Mrigank Rochan. Our research works have been accepted to be presented at reputed venues such as IEEE WACV 2025, and NeurIPS 2024 Workshop on Self-Supervised Learning. My undergrad research work on “Violent Activity Recognition” was published at IJCNN 2021 and has gained over 77 citations so far. In addition to my academic experiences, I have also gained exposure at the industry while working as a Machine Learning Engineer at Apurba Technologies. I contributed to developing a large-scale Bengali OCR system for text recognition. Additionally, developing various academic and personal projects related to computer graphics, computer vision, and machine learning have further enriched my technical expertise. </h7>
+<h7 style="text-align: justify;">During my MSc at the University of Saskatchewan (USask), my academic research focused on AI and computer vision, with papers at top-tier venues including EMNLP 2025, WACV 2025, and NeurIPS 2025 workshops. My undergrad research work on “Violent Activity Recognition” was published at IJCNN 2021 and has gained about 150 citations so far. In addition to my academic experiences, I have also gained R&D exposure at the industry while working as a AI Software Developer in Siemens EDA. I worked on developing generative and agentic AI systems for Electronic Design Automation (EDA). At Siemens, I also collaborated with NVIDIA on a joint project focusing on applying and customizing (finetuning) NVIDIA's Nemotron models for EDA workflows. Previously, I have also worked as a Machine Learning Engineer at Apurba Technologies. I contributed to developing a large-scale Bengali OCR system for text recognition.</h7>
 <br/>
 <br/>
 
