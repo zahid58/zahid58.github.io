@@ -10,7 +10,7 @@ weight: 4
 <div class="card mb-11">
       <div class="row">
         <div class="col-md-4">
-        <img src="https://zahid58.github.io/images/work/siemens.png" width="200" class="card-img" alt="usask logo">
+        <img src="https://zahid58.github.io/images/work/siemens.png" width="200" class="card-img" alt="siemens logo">
         </div>
         <div class="col-md-8">
           <div style="align:left;" class="card-body">
